@@ -1,0 +1,879 @@
+match_id,date,venue,teams,match_type,toss_winner,toss_decision,winner,player_of_match
+1000851,2016-11-03,Western Australia Cricket Association Ground,"Australia, South Africa",Test,South Africa,bat,South Africa,K Rabada
+1000853,2016-11-12,Bellerive Oval,"Australia, South Africa",Test,South Africa,field,South Africa,KJ Abbott
+1000855,2016-11-24,Adelaide Oval,"Australia, South Africa",Test,South Africa,bat,Australia,UT Khawaja
+1000881,2016-12-15,"Brisbane Cricket Ground, Woolloongabba","Australia, Pakistan",Test,Australia,bat,Australia,Asad Shafiq
+1000883,2016-12-26,Melbourne Cricket Ground,"Australia, Pakistan",Test,Pakistan,bat,Australia,SPD Smith
+1000885,2017-01-03,Sydney Cricket Ground,"Australia, Pakistan",Test,Australia,bat,Australia,DA Warner
+1019985,2017-01-12,Basin Reserve,"New Zealand, Bangladesh",Test,New Zealand,field,New Zealand,TWM Latham
+1019987,2017-01-20,Hagley Oval,"New Zealand, Bangladesh",Test,New Zealand,field,New Zealand,TG Southee
+1019993,2016-11-17,Hagley Oval,"New Zealand, Pakistan",Test,New Zealand,field,New Zealand,C de Grandhomme
+1019995,2016-11-25,Seddon Park,"New Zealand, Pakistan",Test,Pakistan,field,New Zealand,TG Southee
+1020041,2017-03-08,University Oval,"New Zealand, South Africa",Test,South Africa,bat,,D Elgar
+1020043,2017-03-16,Basin Reserve,"New Zealand, South Africa",Test,South Africa,field,South Africa,KA Maharaj
+1020045,2017-03-25,Seddon Park,"New Zealand, South Africa",Test,South Africa,bat,,KS Williamson
+1022593,2016-07-21,"Sir Vivian Richards Stadium, North Sound","West Indies, India",Test,India,bat,India,R Ashwin
+1022595,2016-07-30,"Sabina Park, Kingston","West Indies, India",Test,West Indies,bat,,RL Chase
+1022597,2016-08-09,"Darren Sammy National Cricket Stadium, Gros Islet","West Indies, India",Test,West Indies,field,India,R Ashwin
+1022599,2016-08-18,"Queen's Park Oval, Port of Spain","West Indies, India",Test,West Indies,bat,,
+1024041,2016-07-28,Queens Sports Club,"Zimbabwe, New Zealand",Test,Zimbabwe,bat,New Zealand,LRPL Taylor
+1024043,2016-08-06,Queens Sports Club,"Zimbabwe, New Zealand",Test,New Zealand,bat,New Zealand,KS Williamson
+1029825,2016-10-20,Zahur Ahmed Chowdhury Stadium,"Bangladesh, England",Test,England,bat,England,BA Stokes
+1029827,2016-10-28,Shere Bangla National Stadium,"Bangladesh, England",Test,Bangladesh,bat,Bangladesh,Mehedi Hasan Miraz
+1030213,2016-09-22,Green Park,"India, New Zealand",Test,India,bat,India,RA Jadeja
+1030215,2016-09-30,Eden Gardens,"India, New Zealand",Test,India,bat,India,WP Saha
+1030217,2016-10-08,Holkar Cricket Stadium,"India, New Zealand",Test,India,bat,India,R Ashwin
+1031437,2017-07-06,Lord's,"England, South Africa",Test,England,bat,England,MM Ali
+1031439,2017-07-14,Trent Bridge,"South Africa, England",Test,South Africa,bat,South Africa,VD Philander
+1031441,2017-07-27,Kennington Oval,"England, South Africa",Test,England,bat,England,BA Stokes
+1031443,2017-08-04,Old Trafford,"England, South Africa",Test,England,bat,England,MM Ali
+1031659,2017-08-17,Edgbaston,"England, West Indies",Test,England,bat,England,AN Cook
+1031661,2017-08-25,Headingley,"England, West Indies",Test,England,bat,West Indies,SD Hope
+1031663,2017-09-07,Lord's,"West Indies, England",Test,West Indies,bat,England,BA Stokes
+1034809,2016-11-09,Saurashtra Cricket Association Stadium,"India, England",Test,England,bat,,MM Ali
+1034811,2016-11-17,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,"India, England",Test,India,bat,India,V Kohli
+1034813,2016-11-26,"Punjab Cricket Association IS Bindra Stadium, Mohali","India, England",Test,England,bat,India,RA Jadeja
+1034815,2016-12-08,Wankhede Stadium,"India, England",Test,England,bat,India,V Kohli
+1034817,2016-12-16,"MA Chidambaram Stadium, Chepauk","India, England",Test,England,bat,India,KK Nair
+1041761,2017-02-09,"Rajiv Gandhi International Stadium, Uppal","India, Bangladesh",Test,India,bat,India,V Kohli
+1050229,2016-10-13,Dubai International Cricket Stadium,"Pakistan, West Indies",Test,Pakistan,bat,Pakistan,Azhar Ali
+1050231,2016-10-21,Sheikh Zayed Stadium,"Pakistan, West Indies",Test,Pakistan,bat,Pakistan,Yasir Shah
+1050233,2016-10-30,Sharjah Cricket Stadium,"Pakistan, West Indies",Test,Pakistan,bat,West Indies,KC Brathwaite
+1059702,2016-10-29,Harare Sports Club,"Zimbabwe, Sri Lanka",Test,Sri Lanka,bat,Sri Lanka,AG Cremer
+1059703,2016-11-06,Harare Sports Club,"Zimbabwe, Sri Lanka",Test,Zimbabwe,field,Sri Lanka,HMRKB Herath
+1062573,2017-02-23,Maharashtra Cricket Association Stadium,"India, Australia",Test,Australia,bat,Australia,SNJ O'Keefe
+1062574,2017-03-04,M Chinnaswamy Stadium,"India, Australia",Test,India,bat,India,KL Rahul
+1062575,2017-03-16,JSCA International Stadium Complex,"India, Australia",Test,Australia,bat,,CA Pujara
+1062576,2017-03-25,Himachal Pradesh Cricket Association Stadium,"India, Australia",Test,Australia,bat,India,RA Jadeja
+1072305,2017-11-23,"Brisbane Cricket Ground, Woolloongabba","England, Australia",Test,England,bat,Australia,SPD Smith
+1072306,2017-12-02,Adelaide Oval,"Australia, England",Test,England,field,Australia,SE Marsh
+1072307,2017-12-14,W.A.C.A. Ground,"England, Australia",Test,England,bat,Australia,SPD Smith
+1072308,2017-12-26,Melbourne Cricket Ground,"Australia, England",Test,Australia,bat,,AN Cook
+1072309,2018-01-04,Sydney Cricket Ground,"England, Australia",Test,England,bat,Australia,PJ Cummins
+1075502,2017-09-28,Senwes Park,"South Africa, Bangladesh",Test,Bangladesh,field,South Africa,D Elgar
+1075503,2017-10-06,Mangaung Oval,"South Africa, Bangladesh",Test,Bangladesh,field,South Africa,K Rabada
+1075982,2018-03-01,Kingsmead,"Australia, South Africa",Test,Australia,bat,Australia,MA Starc
+1075983,2018-03-09,St George's Park,"Australia, South Africa",Test,Australia,bat,South Africa,K Rabada
+1075984,2018-03-22,Newlands,"South Africa, Australia",Test,South Africa,bat,South Africa,M Morkel
+1075985,2018-03-30,The Wanderers Stadium,"South Africa, Australia",Test,South Africa,bat,South Africa,VD Philander
+1077953,2017-04-21,"Sabina Park, Kingston","West Indies, Pakistan",Test,Pakistan,field,Pakistan,Yasir Shah
+1077954,2017-04-30,"Kensington Oval, Bridgetown","West Indies, Pakistan",Test,West Indies,bat,West Indies,ST Gabriel
+1077955,2017-05-10,"Windsor Park, Roseau","West Indies, Pakistan",Test,West Indies,field,Pakistan,RL Chase
+1083444,2017-03-07,Galle International Stadium,"Sri Lanka, Bangladesh",Test,Sri Lanka,bat,Sri Lanka,BKG Mendis
+1083445,2017-03-15,P Sara Oval,"Sri Lanka, Bangladesh",Test,Sri Lanka,bat,Bangladesh,Tamim Iqbal
+1086066,2017-11-09,"North Sydney Oval, Sydney","England, Australia",Test,England,bat,,EA Perry
+1104284,2017-08-27,"Shere Bangla National Stadium, Mirpur","Bangladesh, Australia",Test,Bangladesh,bat,Bangladesh,Shakib Al Hasan
+1104285,2017-09-04,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Australia",Test,Bangladesh,bat,Australia,NM Lyon
+1104483,2017-07-14,"R.Premadasa Stadium, Khettarama","Zimbabwe, Sri Lanka",Test,Zimbabwe,bat,Sri Lanka,DAS Gunaratne
+1109602,2017-07-26,Galle International Stadium,"India, Sri Lanka",Test,India,bat,India,S Dhawan
+1109603,2017-08-03,Sinhalese Sports Club Ground,"India, Sri Lanka",Test,India,bat,India,RA Jadeja
+1109604,2017-08-12,Pallekele International Cricket Stadium,"India, Sri Lanka",Test,India,bat,India,HH Pandya
+1115780,2018-03-22,Eden Park,"England, New Zealand",Test,New Zealand,field,New Zealand,TA Boult
+1115781,2018-03-30,Hagley Oval,"England, New Zealand",Test,New Zealand,field,,TG Southee
+1115793,2017-12-01,Basin Reserve,"West Indies, New Zealand",Test,New Zealand,field,New Zealand,N Wagner
+1115794,2017-12-09,Seddon Park,"New Zealand, West Indies",Test,West Indies,field,New Zealand,LRPL Taylor
+1119535,2018-05-24,Lord's,"England, Pakistan",Test,England,bat,Pakistan,Mohammad Abbas
+1119536,2018-06-01,Headingley,"Pakistan, England",Test,Pakistan,bat,England,JC Buttler
+1119549,2018-08-01,Edgbaston,"England, India",Test,England,bat,England,SM Curran
+1119550,2018-08-09,Lord's,"India, England",Test,England,field,England,CR Woakes
+1119551,2018-08-18,Trent Bridge,"India, England",Test,England,field,India,V Kohli
+1119552,2018-08-30,The Rose Bowl,"England, India",Test,England,bat,England,MM Ali
+1119553,2018-09-07,Kennington Oval,"England, India",Test,England,bat,England,AN Cook
+1120284,2017-09-28,Sheikh Zayed Stadium,"Sri Lanka, Pakistan",Test,Sri Lanka,bat,Sri Lanka,HMRKB Herath
+1120285,2017-10-06,Dubai International Cricket Stadium,"Sri Lanka, Pakistan",Test,Sri Lanka,bat,Sri Lanka,FDM Karunaratne
+1122276,2018-01-05,Newlands,"South Africa, India",Test,South Africa,bat,South Africa,VD Philander
+1122277,2018-01-13,SuperSport Park,"South Africa, India",Test,South Africa,bat,South Africa,L Ngidi
+1122278,2018-01-24,The Wanderers Stadium,"India, South Africa",Test,India,bat,India,B Kumar
+1122310,2017-12-26,"St George's Park, Port Elizabeth","South Africa, Zimbabwe",Test,South Africa,bat,South Africa,AK Markram
+1122723,2017-11-16,Eden Gardens,"India, Sri Lanka",Test,Sri Lanka,field,,B Kumar
+1122724,2017-11-24,"Vidarbha Cricket Association Stadium, Jamtha","Sri Lanka, India",Test,Sri Lanka,bat,India,V Kohli
+1122725,2017-12-02,Arun Jaitley Stadium,"India, Sri Lanka",Test,India,bat,,V Kohli
+1122886,2017-10-21,Queens Sports Club,"West Indies, Zimbabwe",Test,West Indies,bat,West Indies,D Bishoo
+1122887,2017-10-29,Queens Sports Club,"Zimbabwe, West Indies",Test,Zimbabwe,bat,,Sikandar Raza
+1127284,2018-05-11,"The Village, Malahide","Ireland, Pakistan",Test,Ireland,field,Pakistan,KJ O'Brien
+1130744,2018-01-31,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Sri Lanka",Test,Bangladesh,bat,,Mominul Haque
+1130745,2018-02-08,"Shere Bangla National Stadium, Mirpur","Sri Lanka, Bangladesh",Test,Sri Lanka,bat,Sri Lanka,ARS Silva
+1135149,2018-06-06,"Queen's Park Oval, Port of Spain","West Indies, Sri Lanka",Test,West Indies,bat,West Indies,SO Dowrich
+1135150,2018-06-14,"Daren Sammy National Cricket Stadium, Gros Islet","Sri Lanka, West Indies",Test,Sri Lanka,bat,,ST Gabriel
+1135151,2018-06-23,"Kensington Oval, Bridgetown","West Indies, Sri Lanka",Test,West Indies,bat,Sri Lanka,JO Holder
+1140385,2018-11-06,Galle International Stadium,"England, Sri Lanka",Test,England,bat,England,BT Foakes
+1140386,2018-11-14,Pallekele International Cricket Stadium,"England, Sri Lanka",Test,England,bat,England,JE Root
+1140387,2018-11-23,Sinhalese Sports Club Ground,"England, Sri Lanka",Test,England,bat,England,JM Bairstow
+1142581,2018-07-12,Galle International Stadium,"Sri Lanka, South Africa",Test,Sri Lanka,bat,Sri Lanka,FDM Karunaratne
+1142582,2018-07-20,Sinhalese Sports Club Ground,"Sri Lanka, South Africa",Test,Sri Lanka,bat,Sri Lanka,FDM Karunaratne
+1144153,2018-12-26,SuperSport Park,"South Africa, Pakistan",Test,Pakistan,bat,South Africa,D Olivier
+1144154,2019-01-03,Newlands,"South Africa, Pakistan",Test,South Africa,field,South Africa,F du Plessis
+1144155,2019-01-11,The Wanderers Stadium,"South Africa, Pakistan",Test,South Africa,bat,South Africa,Q de Kock
+1144164,2019-02-13,Kingsmead,"South Africa, Sri Lanka",Test,Sri Lanka,field,Sri Lanka,MDKJ Perera
+1144165,2019-02-21,St George's Park,"South Africa, Sri Lanka",Test,South Africa,bat,Sri Lanka,BKG Mendis
+1144993,2018-12-06,Adelaide Oval,"India, Australia",Test,India,bat,India,CA Pujara
+1144994,2018-12-14,Perth Stadium,"Australia, India",Test,Australia,bat,Australia,NM Lyon
+1144995,2018-12-26,Melbourne Cricket Ground,"Australia, India",Test,India,bat,India,JJ Bumrah
+1144996,2019-01-03,Sydney Cricket Ground,"Australia, India",Test,India,bat,,CA Pujara
+1145000,2019-01-24,"Brisbane Cricket Ground, Woolloongabba","Australia, Sri Lanka",Test,Sri Lanka,bat,Australia,PJ Cummins
+1145001,2019-02-01,Manuka Oval,"Australia, Sri Lanka",Test,Australia,bat,Australia,MA Starc
+1146717,2018-07-04,Sir Vivian Richards Stadium,"Bangladesh, West Indies",Test,West Indies,field,West Indies,KAJ Roach
+1146718,2018-07-12,"Sabina Park, Kingston","West Indies, Bangladesh",Test,Bangladesh,field,West Indies,JO Holder
+1152839,2019-07-24,Lord's,"England, Ireland",Test,England,bat,England,MJ Leach
+1152846,2019-08-01,Edgbaston,"England, Australia",Test,Australia,bat,Australia,SPD Smith
+1152847,2019-08-14,Lord's,"England, Australia",Test,Australia,field,,BA Stokes
+1152848,2019-08-22,Headingley,"England, Australia",Test,England,field,England,BA Stokes
+1152849,2019-09-04,Old Trafford,"England, Australia",Test,Australia,bat,Australia,SPD Smith
+1152850,2019-09-12,Kennington Oval,"England, Australia",Test,Australia,field,England,JC Archer
+1153311,2018-11-22,Zahur Ahmed Chowdhury Stadium,"Bangladesh, West Indies",Test,Bangladesh,bat,Bangladesh,Mominul Haque
+1153312,2018-11-30,"Shere Bangla National Stadium, Mirpur","Bangladesh, West Indies",Test,Bangladesh,bat,Bangladesh,Mehedi Hasan Miraz
+1153639,2018-11-03,Sylhet International Cricket Stadium,"Zimbabwe, Bangladesh",Test,Zimbabwe,bat,Zimbabwe,SC Williams
+1153640,2018-11-11,"Shere Bangla National Stadium, Mirpur","Bangladesh, Zimbabwe",Test,Bangladesh,bat,Bangladesh,Mushfiqur Rahim
+1153838,2018-12-15,"Basin Reserve, Wellington","Sri Lanka, New Zealand",Test,New Zealand,field,,TWM Latham
+1153839,2018-12-26,Hagley Oval,"New Zealand, Sri Lanka",Test,Sri Lanka,field,New Zealand,TG Southee
+1153847,2019-02-28,Seddon Park,"New Zealand, Bangladesh",Test,New Zealand,field,New Zealand,KS Williamson
+1153848,2019-03-08,Basin Reserve,"New Zealand, Bangladesh",Test,New Zealand,field,New Zealand,LRPL Taylor
+1157370,2018-10-07,Dubai International Cricket Stadium,"Pakistan, Australia",Test,Pakistan,bat,,UT Khawaja
+1157371,2018-10-16,Sheikh Zayed Stadium,"Pakistan, Australia",Test,Pakistan,bat,Pakistan,Mohammad Abbas
+1157381,2018-11-16,Sheikh Zayed Stadium,"New Zealand, Pakistan",Test,New Zealand,bat,New Zealand,AY Patel
+1157382,2018-11-24,Dubai International Cricket Stadium,"Pakistan, New Zealand",Test,Pakistan,bat,Pakistan,Yasir Shah
+1157383,2018-12-03,Sheikh Zayed Stadium,"New Zealand, Pakistan",Test,New Zealand,bat,New Zealand,KS Williamson
+1157752,2018-10-04,Saurashtra Cricket Association Stadium,"India, West Indies",Test,India,bat,India,PP Shaw
+1157753,2018-10-12,"Rajiv Gandhi International Stadium, Uppal","West Indies, India",Test,West Indies,bat,India,UT Yadav
+1158062,2019-01-23,"Kensington Oval, Barbados","West Indies, England",Test,West Indies,bat,West Indies,JO Holder
+1158063,2019-01-31,"Sir Vivian Richards Stadium, Antigua","West Indies, England",Test,West Indies,field,West Indies,KAJ Roach
+1158064,2019-02-09,"Daren Sammy National Cricket Stadium, St Lucia","West Indies, England",Test,West Indies,field,England,MA Wood
+1168025,2019-07-18,The Cooper Associates County Ground,"England, Australia",Test,Australia,bat,,EA Perry
+1183530,2019-11-21,"Brisbane Cricket Ground, Woolloongabba","Australia, Pakistan",Test,Pakistan,bat,Australia,M Labuschagne
+1183531,2019-11-29,Adelaide Oval,"Australia, Pakistan",Test,Australia,bat,Australia,DA Warner
+1183532,2019-12-12,Perth Stadium,"Australia, New Zealand",Test,Australia,bat,Australia,MA Starc
+1183533,2019-12-26,Melbourne Cricket Ground,"Australia, New Zealand",Test,New Zealand,field,Australia,TM Head
+1183534,2020-01-03,Sydney Cricket Ground,"Australia, New Zealand",Test,Australia,bat,Australia,M Labuschagne
+1185304,2019-12-26,SuperSport Park,"South Africa, England",Test,England,field,South Africa,Q de Kock
+1185305,2020-01-03,Newlands,"South Africa, England",Test,England,bat,England,BA Stokes
+1185306,2020-01-16,St George's Park,"South Africa, England",Test,England,bat,England,OJ Pope
+1185307,2020-01-24,The Wanderers Stadium,"South Africa, England",Test,England,bat,England,MA Wood
+1187007,2019-10-02,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,"India, South Africa",Test,India,bat,India,RG Sharma
+1187008,2019-10-10,Maharashtra Cricket Association Stadium,"India, South Africa",Test,India,bat,India,V Kohli
+1187009,2019-10-19,JSCA International Stadium Complex,"India, South Africa",Test,India,bat,India,RG Sharma
+1187016,2019-11-14,Holkar Cricket Stadium,"India, Bangladesh",Test,Bangladesh,bat,India,MA Agarwal
+1187017,2019-11-22,Eden Gardens,"India, Bangladesh",Test,Bangladesh,bat,India,I Sharma
+1187671,2019-11-21,Bay Oval,"New Zealand, England",Test,England,bat,New Zealand,BJ Watling
+1187672,2019-11-29,Seddon Park,"New Zealand, England",Test,England,field,,JE Root
+1187685,2020-02-21,Basin Reserve,"New Zealand, India",Test,New Zealand,field,New Zealand,TG Southee
+1187686,2020-02-29,Hagley Oval,"New Zealand, India",Test,New Zealand,field,New Zealand,KA Jamieson
+1188628,2019-08-22,"Sir Vivian Richards Stadium, Antigua","West Indies, India",Test,West Indies,field,India,AM Rahane
+1188629,2019-08-30,"Sabina Park, Jamaica","West Indies, India",Test,West Indies,field,India,GH Vihari
+1192873,2019-08-14,Galle International Stadium,"Sri Lanka, New Zealand",Test,New Zealand,bat,Sri Lanka,FDM Karunaratne
+1192874,2019-08-22,P Sara Oval,"Sri Lanka, New Zealand",Test,Sri Lanka,bat,New Zealand,TWM Latham
+1198241,2020-08-05,Old Trafford,"Pakistan, England",Test,Pakistan,bat,England,CR Woakes
+1198242,2020-08-13,The Rose Bowl,"Pakistan, England",Test,Pakistan,bat,,Mohammad Rizwan
+1198243,2020-08-21,The Rose Bowl,"England, Pakistan",Test,England,bat,,Z Crawley
+1206635,2019-12-11,Rawalpindi Cricket Stadium,"Pakistan, Sri Lanka",Test,Sri Lanka,bat,,Abid Ali
+1206636,2019-12-19,National Stadium,"Pakistan, Sri Lanka",Test,Pakistan,bat,Pakistan,Abid Ali
+1212541,2020-01-19,Harare Sports Club,"Zimbabwe, Sri Lanka",Test,Zimbabwe,bat,Sri Lanka,AD Mathews
+1212542,2020-01-27,Harare Sports Club,"Zimbabwe, Sri Lanka",Test,Zimbabwe,bat,,Sikandar Raza
+1213062,2020-02-07,Rawalpindi Cricket Stadium,"Pakistan, Bangladesh",Test,Pakistan,field,Pakistan,Naseem Shah
+1214666,2020-02-22,"Shere Bangla National Stadium, Mirpur","Bangladesh, Zimbabwe",Test,Zimbabwe,bat,Bangladesh,Mushfiqur Rahim
+1223869,2020-12-17,Adelaide Oval,"India, Australia",Test,India,bat,Australia,TD Paine
+1223870,2020-12-26,Melbourne Cricket Ground,"Australia, India",Test,Australia,bat,India,AM Rahane
+1223871,2021-01-07,Sydney Cricket Ground,"Australia, India",Test,Australia,bat,,SPD Smith
+1223872,2021-01-15,Brisbane Cricket Ground,"Australia, India",Test,Australia,bat,India,RR Pant
+1225247,2020-07-08,The Rose Bowl,"England, West Indies",Test,England,bat,West Indies,ST Gabriel
+1225248,2020-07-16,Old Trafford,"England, West Indies",Test,West Indies,field,England,BA Stokes
+1225249,2020-07-24,Old Trafford,"England, West Indies",Test,West Indies,field,England,SCJ Broad
+1233957,2020-12-03,Seddon Park,"New Zealand, West Indies",Test,West Indies,field,New Zealand,KS Williamson
+1233958,2020-12-11,Basin Reserve,"New Zealand, West Indies",Test,West Indies,field,New Zealand,HM Nicholls
+1233962,2020-12-26,Bay Oval,"New Zealand, Pakistan",Test,Pakistan,field,New Zealand,KS Williamson
+1233963,2021-01-03,Hagley Oval,"Pakistan, New Zealand",Test,New Zealand,field,New Zealand,KA Jamieson
+1237356,2020-12-26,SuperSport Park,"Sri Lanka, South Africa",Test,Sri Lanka,bat,South Africa,F du Plessis
+1237357,2021-01-03,The Wanderers Stadium,"Sri Lanka, South Africa",Test,Sri Lanka,bat,South Africa,D Elgar
+1239543,2021-08-04,"Trent Bridge, Nottingham","England, India",Test,England,bat,,JE Root
+1239544,2021-08-12,"Lord's, London","India, England",Test,England,field,India,KL Rahul
+1239545,2021-08-25,"Headingley, Leeds","India, England",Test,India,bat,England,OE Robinson
+1239546,2021-09-02,"Kennington Oval, London","India, England",Test,England,field,India,RG Sharma
+1243015,2021-01-14,Galle International Stadium,"Sri Lanka, England",Test,Sri Lanka,bat,England,JE Root
+1243016,2021-01-22,Galle International Stadium,"Sri Lanka, England",Test,Sri Lanka,bat,England,JE Root
+1243017,2021-01-26,National Stadium,"South Africa, Pakistan",Test,South Africa,bat,Pakistan,Fawad Alam
+1243018,2021-02-04,Rawalpindi Cricket Stadium,"Pakistan, South Africa",Test,Pakistan,bat,Pakistan,Hasan Ali
+1243384,2021-02-05,MA Chidambaram Stadium,"England, India",Test,England,bat,England,JE Root
+1243385,2021-02-13,MA Chidambaram Stadium,"India, England",Test,India,bat,India,R Ashwin
+1243386,2021-02-24,Narendra Modi Stadium,"England, India",Test,England,bat,India,AR Patel
+1243387,2021-03-04,Narendra Modi Stadium,"England, India",Test,England,bat,India,RR Pant
+1244025,2021-02-03,Zahur Ahmed Chowdhury Stadium,"Bangladesh, West Indies",Test,Bangladesh,bat,West Indies,KR Mayers
+1244026,2021-02-11,Shere Bangla National Stadium,"West Indies, Bangladesh",Test,West Indies,bat,West Indies,RRS Cornwall
+1249210,2021-06-02,"Lord's, London","New Zealand, England",Test,New Zealand,bat,,DP Conway
+1249211,2021-06-10,"Edgbaston, Birmingham","England, New Zealand",Test,England,bat,New Zealand,MJ Henry
+1249875,2021-06-18,"The Rose Bowl, Southampton","India, New Zealand",Test,New Zealand,field,New Zealand,KA Jamieson
+1252073,2021-03-21,Sir Vivian Richards Stadium,"Sri Lanka, West Indies",Test,West Indies,field,,NE Bonner
+1252074,2021-03-29,Sir Vivian Richards Stadium,"West Indies, Sri Lanka",Test,Sri Lanka,field,,KC Brathwaite
+1255828,2021-04-21,Pallekele International Cricket Stadium,"Sri Lanka, Bangladesh",Test,Bangladesh,bat,,FDM Karunaratne
+1255829,2021-04-29,Pallekele International Cricket Stadium,"Sri Lanka, Bangladesh",Test,Sri Lanka,bat,Sri Lanka,P Jayawickrama
+1256726,2022-03-08,"Sir Vivian Richards Stadium, North Sound, Antigua","England, West Indies",Test,England,bat,,NE Bonner
+1256727,2022-03-16,"Kensington Oval, Bridgetown, Barbados","England, West Indies",Test,England,bat,,KC Brathwaite
+1256728,2022-03-24,"National Cricket Stadium, St George's, Grenada","England, West Indies",Test,West Indies,field,West Indies,J Da Silva
+1257186,2021-04-29,Harare Sports Club,"Zimbabwe, Pakistan",Test,Zimbabwe,bat,Pakistan,Hasan Ali
+1257187,2021-05-07,Harare Sports Club,"Pakistan, Zimbabwe",Test,Pakistan,bat,Pakistan,Abid Ali
+1260093,2021-06-16,"County Ground, Bristol","England, India",Test,England,bat,,Shafali Verma
+1263149,2021-06-10,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia","West Indies, South Africa",Test,West Indies,bat,South Africa,Q de Kock
+1263150,2021-06-18,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia","South Africa, West Indies",Test,West Indies,field,South Africa,K Rabada
+1263169,2021-08-12,"Sabina Park, Kingston, Jamaica","Pakistan, West Indies",Test,West Indies,field,West Indies,JNT Seales
+1263170,2021-08-20,"Sabina Park, Kingston, Jamaica","Pakistan, West Indies",Test,West Indies,field,Pakistan,Shaheen Shah Afridi
+1263462,2021-12-08,"Brisbane Cricket Ground, Woolloongabba, Brisbane","England, Australia",Test,England,bat,Australia,TM Head
+1263463,2021-12-16,Adelaide Oval,"Australia, England",Test,Australia,bat,Australia,M Labuschagne
+1263464,2021-12-26,Melbourne Cricket Ground,"England, Australia",Test,Australia,field,Australia,SM Boland
+1263465,2022-01-05,Sydney Cricket Ground,"Australia, England",Test,Australia,bat,,UT Khawaja
+1263466,2022-01-14,"Bellerive Oval, Hobart","Australia, England",Test,England,field,Australia,TM Head
+1263571,2022-01-27,"Manuka Oval, Canberra","Australia, England",Test,England,field,,HC Knight
+1263620,2021-09-30,Carrara Oval,"India, Australia",Test,Australia,field,,S Mandhana
+1267676,2021-07-07,Harare Sports Club,"Bangladesh, Zimbabwe",Test,Bangladesh,bat,Bangladesh,Mahmudullah
+1276901,2022-06-02,"Lord's, London","New Zealand, England",Test,New Zealand,bat,England,JE Root
+1276902,2022-06-10,"Trent Bridge, Nottingham","New Zealand, England",Test,England,field,England,JM Bairstow
+1276903,2022-06-23,"Headingley, Leeds","New Zealand, England",Test,New Zealand,bat,England,MJ Leach
+1276916,2022-08-17,"Lord's, London","England, South Africa",Test,South Africa,field,South Africa,K Rabada
+1276917,2022-08-25,"Old Trafford, Manchester","South Africa, England",Test,South Africa,bat,England,BA Stokes
+1276918,2022-09-08,"Kennington Oval, London","South Africa, England",Test,England,field,England,OE Robinson
+1277079,2021-12-26,"SuperSport Park, Centurion","India, South Africa",Test,India,bat,India,KL Rahul
+1277080,2022-01-03,"The Wanderers Stadium, Johannesburg","India, South Africa",Test,India,bat,South Africa,D Elgar
+1277081,2022-01-11,"Newlands, Cape Town","India, South Africa",Test,India,bat,South Africa,KD Petersen
+1277100,2022-03-31,"Kingsmead, Durban","South Africa, Bangladesh",Test,Bangladesh,field,South Africa,KA Maharaj
+1277101,2022-04-08,"St George's Park, Port Elizabeth","South Africa, Bangladesh",Test,South Africa,bat,South Africa,KA Maharaj
+1277977,2021-11-26,"Zahur Ahmed Chowdhury Stadium, Chattogram","Bangladesh, Pakistan",Test,Bangladesh,bat,Pakistan,Abid Ali
+1277978,2021-12-04,"Shere Bangla National Stadium, Mirpur","Pakistan, Bangladesh",Test,Pakistan,bat,Pakistan,Sajid Khan
+1278674,2021-11-25,"Green Park, Kanpur","India, New Zealand",Test,India,bat,,SS Iyer
+1278675,2021-12-03,"Wankhede Stadium, Mumbai","India, New Zealand",Test,India,bat,India,MA Agarwal
+1278682,2022-03-04,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh","India, Sri Lanka",Test,India,bat,India,RA Jadeja
+1278683,2022-03-12,"M Chinnaswamy Stadium, Bengaluru","India, Sri Lanka",Test,India,bat,India,SS Iyer
+1288310,2022-03-04,Rawalpindi Cricket Stadium,"Pakistan, Australia",Test,Pakistan,bat,,Imam-ul-Haq
+1288311,2022-03-12,"National Stadium, Karachi","Australia, Pakistan",Test,Australia,bat,,Babar Azam
+1288312,2022-03-21,"Gaddafi Stadium, Lahore","Australia, Pakistan",Test,Australia,bat,Australia,PJ Cummins
+1288345,2021-11-21,Galle International Stadium,"Sri Lanka, West Indies",Test,Sri Lanka,bat,Sri Lanka,FDM Karunaratne
+1288346,2021-11-29,Galle International Stadium,"Sri Lanka, West Indies",Test,Sri Lanka,bat,Sri Lanka,DM de Silva
+1288979,2022-01-01,"Bay Oval, Mount Maunganui","New Zealand, Bangladesh",Test,Bangladesh,field,Bangladesh,Ebadat Hossain
+1288980,2022-01-09,"Hagley Oval, Christchurch","New Zealand, Bangladesh",Test,Bangladesh,field,New Zealand,TWM Latham
+1288981,2022-02-17,"Hagley Oval, Christchurch","South Africa, New Zealand",Test,New Zealand,field,New Zealand,MJ Henry
+1288982,2022-02-25,"Hagley Oval, Christchurch","South Africa, New Zealand",Test,South Africa,bat,South Africa,K Rabada
+1301327,2022-06-27,"The Cooper Associates County Ground, Taunton","South Africa, England",Test,England,field,,NR Sciver
+1307301,2022-06-29,Galle International Stadium,"Sri Lanka, Australia",Test,Sri Lanka,bat,Australia,C Green
+1307302,2022-07-08,Galle International Stadium,"Australia, Sri Lanka",Test,Australia,bat,Sri Lanka,NGRP Jayasuriya
+1308488,2022-05-15,"Zahur Ahmed Chowdhury Stadium, Chattogram","Sri Lanka, Bangladesh",Test,Sri Lanka,bat,,AD Mathews
+1308489,2022-05-23,"Shere Bangla National Stadium, Mirpur","Bangladesh, Sri Lanka",Test,Bangladesh,bat,Sri Lanka,AM Fernando
+1317147,2022-06-16,"Sir Vivian Richards Stadium, North Sound, Antigua","Bangladesh, West Indies",Test,West Indies,field,West Indies,KAJ Roach
+1317148,2022-06-24,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia","Bangladesh, West Indies",Test,West Indies,field,West Indies,KR Mayers
+1317484,2022-11-30,Perth Stadium,"Australia, West Indies",Test,Australia,bat,Australia,M Labuschagne
+1317485,2022-12-08,Adelaide Oval,"Australia, West Indies",Test,Australia,bat,Australia,TM Head
+1317492,2022-12-17,"Brisbane Cricket Ground, Woolloongabba, Brisbane","South Africa, Australia",Test,Australia,field,Australia,TM Head
+1317493,2022-12-26,Melbourne Cricket Ground,"South Africa, Australia",Test,Australia,field,Australia,DA Warner
+1317494,2023-01-04,Sydney Cricket Ground,"Australia, South Africa",Test,Australia,bat,,UT Khawaja
+1320741,2022-07-01,"Edgbaston, Birmingham","India, England",Test,England,field,England,JM Bairstow
+1320953,2022-07-16,Galle International Stadium,"Sri Lanka, Pakistan",Test,Sri Lanka,bat,Pakistan,Abdullah Shafique
+1320954,2022-07-24,Galle International Stadium,"Sri Lanka, Pakistan",Test,Sri Lanka,bat,Sri Lanka,DM de Silva
+1322355,2023-02-16,"Bay Oval, Mount Maunganui","England, New Zealand",Test,New Zealand,field,England,HC Brook
+1322356,2023-02-24,"Basin Reserve, Wellington","England, New Zealand",Test,New Zealand,field,New Zealand,KS Williamson
+1322357,2023-03-09,"Hagley Oval, Christchurch","Sri Lanka, New Zealand",Test,New Zealand,field,New Zealand,DJ Mitchell
+1322358,2023-03-17,"Basin Reserve, Wellington","New Zealand, Sri Lanka",Test,Sri Lanka,field,New Zealand,HM Nicholls
+1330871,2022-12-01,Rawalpindi Cricket Stadium,"England, Pakistan",Test,England,bat,England,OE Robinson
+1330872,2022-12-09,Multan Cricket Stadium,"England, Pakistan",Test,England,bat,England,HC Brook
+1330873,2022-12-17,"National Stadium, Karachi","Pakistan, England",Test,Pakistan,bat,England,HC Brook
+1336043,2023-06-16,"Edgbaston, Birmingham","England, Australia",Test,England,bat,Australia,UT Khawaja
+1336044,2023-06-28,"Lord's, London","Australia, England",Test,England,field,Australia,SPD Smith
+1336045,2023-07-06,"Headingley, Leeds","Australia, England",Test,England,field,England,MA Wood
+1336046,2023-07-19,"Old Trafford, Manchester","Australia, England",Test,England,field,,Z Crawley
+1336047,2023-07-27,"Kennington Oval, London","England, Australia",Test,Australia,field,England,CR Woakes
+1336073,2023-06-22,"Trent Bridge, Nottingham","Australia, England",Test,Australia,bat,Australia,A Gardner
+1336127,2023-06-01,"Lord's, London","Ireland, England",Test,England,field,England,OJ Pope
+1339599,2023-02-28,"SuperSport Park, Centurion","South Africa, West Indies",Test,South Africa,bat,South Africa,AK Markram
+1339600,2023-03-08,"The Wanderers Stadium, Johannesburg","South Africa, West Indies",Test,South Africa,bat,South Africa,T Bavuma
+1339609,2022-12-26,"National Stadium, Karachi","Pakistan, New Zealand",Test,Pakistan,bat,,KS Williamson
+1339610,2023-01-02,"National Stadium, Karachi","New Zealand, Pakistan",Test,New Zealand,bat,,Sarfraz Ahmed
+1340848,2022-12-14,"Zahur Ahmed Chowdhury Stadium, Chattogram","India, Bangladesh",Test,India,bat,India,Kuldeep Yadav
+1340849,2022-12-22,"Shere Bangla National Stadium, Mirpur","Bangladesh, India",Test,Bangladesh,bat,India,R Ashwin
+1348652,2023-02-09,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur","Australia, India",Test,Australia,bat,India,RA Jadeja
+1348653,2023-02-17,"Arun Jaitley Stadium, Delhi","Australia, India",Test,Australia,bat,India,RA Jadeja
+1348654,2023-03-01,"Holkar Cricket Stadium, Indore","India, Australia",Test,India,bat,Australia,NM Lyon
+1348655,2023-03-09,"Narendra Modi Stadium, Ahmedabad","Australia, India",Test,Australia,bat,,V Kohli
+1350681,2023-02-04,"Queens Sports Club, Bulawayo","West Indies, Zimbabwe",Test,West Indies,bat,,T Chanderpaul
+1350682,2023-02-12,"Queens Sports Club, Bulawayo","Zimbabwe, West Indies",Test,Zimbabwe,bat,West Indies,G Motie
+1355723,2023-04-04,"Shere Bangla National Stadium, Mirpur","Ireland, Bangladesh",Test,Ireland,bat,Bangladesh,Mushfiqur Rahim
+1358412,2023-06-07,"Kennington Oval, London","Australia, India",Test,India,field,Australia,TM Head
+1363447,2023-04-16,Galle International Stadium,"Sri Lanka, Ireland",Test,Sri Lanka,bat,Sri Lanka,NGRP Jayasuriya
+1363448,2023-04-24,Galle International Stadium,"Ireland, Sri Lanka",Test,Ireland,bat,Sri Lanka,NGRP Jayasuriya
+1375842,2023-12-14,Perth Stadium,"Australia, Pakistan",Test,Australia,bat,Australia,MR Marsh
+1375843,2023-12-26,Melbourne Cricket Ground,"Australia, Pakistan",Test,Pakistan,field,Australia,PJ Cummins
+1375844,2024-01-03,Sydney Cricket Ground,"Pakistan, Australia",Test,Pakistan,bat,Australia,Aamer Jamal
+1375845,2024-01-17,Adelaide Oval,"West Indies, Australia",Test,Australia,field,Australia,TM Head
+1375846,2024-01-25,"Brisbane Cricket Ground, Woolloongabba, Brisbane","West Indies, Australia",Test,West Indies,bat,West Indies,S Joseph
+1375875,2024-02-15,"Western Australia Cricket Association Ground, Perth","South Africa, Australia",Test,Australia,field,Australia,A Sutherland
+1381212,2023-07-12,"Windsor Park, Roseau, Dominica","West Indies, India",Test,West Indies,bat,India,YBK Jaiswal
+1381213,2023-07-20,"Queen's Park Oval, Port of Spain, Trinidad","India, West Indies",Test,West Indies,field,,Mohammed Siraj
+1385685,2023-07-16,Galle International Stadium,"Sri Lanka, Pakistan",Test,Sri Lanka,bat,Pakistan,Saud Shakeel
+1385686,2023-07-24,"Sinhalese Sports Club Ground, Colombo","Sri Lanka, Pakistan",Test,Sri Lanka,bat,Pakistan,Abdullah Shafique
+1385691,2024-07-10,"Lord's, London","West Indies, England",Test,England,field,England,AAP Atkinson
+1385692,2024-07-18,"Trent Bridge, Nottingham","England, West Indies",Test,West Indies,field,England,OJ Pope
+1385693,2024-07-26,"Edgbaston, Birmingham","West Indies, England",Test,West Indies,bat,England,MA Wood
+1385694,2024-08-21,"Old Trafford, Manchester","Sri Lanka, England",Test,Sri Lanka,bat,England,JL Smith
+1385695,2024-08-29,"Lord's, London","England, Sri Lanka",Test,Sri Lanka,field,England,AAP Atkinson
+1385696,2024-09-06,"Kennington Oval, London","England, Sri Lanka",Test,Sri Lanka,field,Sri Lanka,P Nissanka
+1387603,2023-12-26,"SuperSport Park, Centurion","India, South Africa",Test,South Africa,field,South Africa,D Elgar
+1387604,2024-01-03,"Newlands, Cape Town","South Africa, India",Test,South Africa,bat,India,Mohammed Siraj
+1388221,2024-02-04,"Bay Oval, Mount Maunganui","New Zealand, South Africa",Test,South Africa,field,New Zealand,R Ravindra
+1388222,2024-02-13,"Seddon Park, Hamilton","South Africa, New Zealand",Test,South Africa,bat,New Zealand,W O'Rourke
+1388226,2024-02-29,"Basin Reserve, Wellington","Australia, New Zealand",Test,New Zealand,field,Australia,C Green
+1388227,2024-03-08,"Hagley Oval, Christchurch","New Zealand, Australia",Test,Australia,field,Australia,AT Carey
+1389399,2024-01-25,"Rajiv Gandhi International Stadium, Uppal, Hyderabad","England, India",Test,England,bat,England,OJ Pope
+1389400,2024-02-02,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam","India, England",Test,India,bat,India,JJ Bumrah
+1389401,2024-02-15,"Saurashtra Cricket Association Stadium, Rajkot","India, England",Test,India,bat,India,RA Jadeja
+1389402,2024-02-23,"JSCA International Stadium Complex, Ranchi","England, India",Test,England,bat,India,Dhruv Jurel
+1389403,2024-03-07,"Himachal Pradesh Cricket Association Stadium, Dharamsala","England, India",Test,England,bat,India,Kuldeep Yadav
+1392691,2025-05-22,"Trent Bridge, Nottingham","England, Zimbabwe",Test,Zimbabwe,field,England,Shoaib Bashir
+1395703,2023-11-28,Sylhet International Cricket Stadium,"Bangladesh, New Zealand",Test,Bangladesh,bat,Bangladesh,Taijul Islam
+1395704,2023-12-06,"Shere Bangla National Stadium, Mirpur","Bangladesh, New Zealand",Test,Bangladesh,bat,New Zealand,GD Phillips
+1406076,2023-12-14,"Dr DY Patil Sports Academy, Mumbai","India, England",Test,India,bat,India,DB Sharma
+1406077,2023-12-21,"Wankhede Stadium, Mumbai","Australia, India",Test,Australia,bat,India,S Rana
+1419830,2024-03-22,Sylhet International Cricket Stadium,"Sri Lanka, Bangladesh",Test,Bangladesh,field,Sri Lanka,DM de Silva
+1419831,2024-03-30,"Zahur Ahmed Chowdhury Stadium, Chattogram","Sri Lanka, Bangladesh",Test,Sri Lanka,bat,Sri Lanka,PHKD Mendis
+1426555,2024-11-22,Perth Stadium,"India, Australia",Test,India,bat,India,JJ Bumrah
+1426556,2024-12-06,Adelaide Oval,"India, Australia",Test,India,bat,Australia,TM Head
+1426557,2024-12-14,"Brisbane Cricket Ground, Woolloongabba, Brisbane","Australia, India",Test,India,field,,TM Head
+1426558,2024-12-26,Melbourne Cricket Ground,"Australia, India",Test,Australia,bat,Australia,PJ Cummins
+1426559,2025-01-03,Sydney Cricket Ground,"India, Australia",Test,India,bat,Australia,SM Boland
+1426629,2025-01-30,Melbourne Cricket Ground,"England, Australia",Test,Australia,field,Australia,A Sutherland
+1428554,2024-11-28,"Hagley Oval, Christchurch","New Zealand, England",Test,England,field,England,BA Carse
+1428555,2024-12-06,"Basin Reserve, Wellington","England, New Zealand",Test,New Zealand,field,England,HC Brook
+1428556,2024-12-14,"Seddon Park, Hamilton","New Zealand, England",Test,England,field,New Zealand,MJ Santner
+1431085,2024-07-25,"Civil Service Cricket Club, Stormont, Belfast","Zimbabwe, Ireland",Test,Ireland,field,Ireland,AR McBrine
+1432209,2024-11-27,"Kingsmead, Durban","South Africa, Sri Lanka",Test,Sri Lanka,field,South Africa,M Jansen
+1432210,2024-12-05,"St George's Park, Gqeberha","South Africa, Sri Lanka",Test,South Africa,bat,South Africa,D Paterson
+1432217,2024-12-26,"SuperSport Park, Centurion","Pakistan, South Africa",Test,South Africa,field,South Africa,AK Markram
+1432218,2025-01-03,"Newlands, Cape Town","South Africa, Pakistan",Test,South Africa,bat,South Africa,RD Rickelton
+1432231,2024-12-15,"Mangaung Oval, Bloemfontein","England, South Africa",Test,England,bat,England,LK Bell
+1433365,2024-08-07,"Queen's Park Oval, Port of Spain, Trinidad","South Africa, West Indies",Test,South Africa,bat,,KA Maharaj
+1433366,2024-08-15,"Providence Stadium, Guyana","South Africa, West Indies",Test,South Africa,bat,South Africa,PWA Mulder
+1433378,2024-11-22,"Sir Vivian Richards Stadium, North Sound, Antigua","West Indies, Bangladesh",Test,Bangladesh,field,West Indies,JP Greaves
+1433379,2024-11-30,"Sabina Park, Kingston, Jamaica","Bangladesh, West Indies",Test,Bangladesh,bat,Bangladesh,Taijul Islam
+1434290,2024-06-28,"MA Chidambaram Stadium, Chepauk, Chennai","India, South Africa",Test,India,bat,India,S Rana
+1439891,2024-09-19,"MA Chidambaram Stadium, Chepauk, Chennai","India, Bangladesh",Test,Bangladesh,field,India,R Ashwin
+1439892,2024-09-27,"Green Park, Kanpur","Bangladesh, India",Test,India,field,India,YBK Jaiswal
+1439896,2024-10-16,"M Chinnaswamy Stadium, Bengaluru","India, New Zealand",Test,India,bat,New Zealand,R Ravindra
+1439897,2024-10-24,"Maharashtra Cricket Association Stadium, Pune","New Zealand, India",Test,New Zealand,bat,New Zealand,MJ Santner
+1439898,2024-11-01,"Wankhede Stadium, Mumbai","New Zealand, India",Test,New Zealand,bat,New Zealand,AY Patel
+1442213,2024-08-21,Rawalpindi Cricket Stadium,"Pakistan, Bangladesh",Test,Bangladesh,field,Bangladesh,Mushfiqur Rahim
+1442214,2024-08-30,Rawalpindi Cricket Stadium,"Pakistan, Bangladesh",Test,Bangladesh,field,Bangladesh,Liton Das
+1442215,2024-10-07,Multan Cricket Stadium,"Pakistan, England",Test,Pakistan,bat,England,HC Brook
+1442216,2024-10-15,Multan Cricket Stadium,"Pakistan, England",Test,Pakistan,bat,Pakistan,Sajid Khan
+1442217,2024-10-24,Rawalpindi Cricket Stadium,"England, Pakistan",Test,England,bat,Pakistan,Saud Shakeel
+1442218,2025-01-17,Multan Cricket Stadium,"Pakistan, West Indies",Test,Pakistan,bat,Pakistan,Sajid Khan
+1442219,2025-01-25,Multan Cricket Stadium,"West Indies, Pakistan",Test,West Indies,bat,West Indies,JA Warrican
+1447096,2024-09-18,Galle International Stadium,"Sri Lanka, New Zealand",Test,Sri Lanka,bat,Sri Lanka,NGRP Jayasuriya
+1447097,2024-09-26,Galle International Stadium,"Sri Lanka, New Zealand",Test,Sri Lanka,bat,Sri Lanka,PHKD Mendis
+1448349,2025-06-20,"Headingley, Leeds","India, England",Test,England,field,England,BM Duckett
+1448350,2025-07-02,"Edgbaston, Birmingham","India, England",Test,England,field,India,Shubman Gill
+1448351,2025-07-10,"Lord's, London","England, India",Test,England,bat,England,BA Stokes
+1448352,2025-07-23,"Old Trafford, Manchester","India, England",Test,England,field,,BA Stokes
+1448353,2025-07-31,"Kennington Oval, London","India, England",Test,England,field,India,Mohammed Siraj
+1449769,2025-06-11,"Lord's, London","Australia, South Africa",Test,South Africa,field,South Africa,AK Markram
+1453293,2024-10-21,"Shere Bangla National Stadium, Mirpur","Bangladesh, South Africa",Test,Bangladesh,bat,South Africa,K Verreynne
+1453294,2024-10-29,"Zahur Ahmed Chowdhury Stadium, Chattogram","South Africa, Bangladesh",Test,South Africa,bat,South Africa,T de Zorzi
+1459906,2025-01-29,Galle International Stadium,"Australia, Sri Lanka",Test,Australia,bat,Australia,UT Khawaja
+1459907,2025-02-06,Galle International Stadium,"Sri Lanka, Australia",Test,Sri Lanka,bat,Australia,AT Carey
+1467700,2025-02-06,"Queens Sports Club, Bulawayo","Ireland, Zimbabwe",Test,Ireland,bat,Ireland,AR McBrine
+1472517,2025-06-25,"Kensington Oval, Bridgetown, Barbados","Australia, West Indies",Test,Australia,bat,Australia,TM Head
+1472518,2025-07-03,"National Cricket Stadium, St George's, Grenada","Australia, West Indies",Test,Australia,bat,Australia,AT Carey
+1472519,2025-07-12,"Sabina Park, Kingston, Jamaica","Australia, West Indies",Test,Australia,bat,Australia,MA Starc
+1476409,2025-04-20,Sylhet International Cricket Stadium,"Bangladesh, Zimbabwe",Test,Bangladesh,bat,Zimbabwe,B Muzarabani
+1476410,2025-04-28,"Zahur Ahmed Chowdhury Stadium, Chattogram","Zimbabwe, Bangladesh",Test,Zimbabwe,bat,Bangladesh,Mehedi Hasan Miraz
+1478863,2025-06-28,"Queens Sports Club, Bulawayo","South Africa, Zimbabwe",Test,South Africa,bat,South Africa,LG Pretorius
+1478864,2025-07-06,"Queens Sports Club, Bulawayo","South Africa, Zimbabwe",Test,Zimbabwe,field,South Africa,PWA Mulder
+1478872,2025-07-30,"Queens Sports Club, Bulawayo","Zimbabwe, New Zealand",Test,Zimbabwe,bat,New Zealand,MJ Henry
+1485503,2025-06-17,Galle International Stadium,"Bangladesh, Sri Lanka",Test,Bangladesh,bat,,Nazmul Hossain Shanto
+1485504,2025-06-25,"Sinhalese Sports Club Ground, Colombo","Bangladesh, Sri Lanka",Test,Bangladesh,bat,Sri Lanka,P Nissanka
+207334,2005-04-21,Kensington Oval,"West Indies, South Africa",Test,West Indies,bat,South Africa,A Nel
+208321,2005-04-29,Antigua Recreation Ground,"South Africa, West Indies",Test,South Africa,bat,,CH Gayle
+210366,2005-06-03,Riverside Ground,"Bangladesh, England",Test,England,field,England,MJ Hoggard
+215253,2005-08-07,Harare Sports Club,"New Zealand, Zimbabwe",Test,Zimbabwe,field,New Zealand,DL Vettori
+216055,2005-08-15,Queens Sports Club,"Zimbabwe, New Zealand",Test,Zimbabwe,bat,New Zealand,SE Bond
+216932,2005-08-24,"County Ground, New Road, Worcester","Australia, England",Test,England,field,England,KH Brunt
+218813,2005-09-12,R.Premadasa Stadium,"Bangladesh, Sri Lanka",Test,Sri Lanka,field,Sri Lanka,M Muralitharan
+219062,2005-09-13,Queens Sports Club,"Zimbabwe, India",Test,Zimbabwe,bat,India,IK Pathan
+219612,2005-09-20,P Sara Oval,"Sri Lanka, Bangladesh",Test,Sri Lanka,bat,Sri Lanka,TT Samaraweera
+221840,2005-10-14,Sydney Cricket Ground,"Australia, ICC World XI",Test,Australia,bat,Australia,ML Hayden
+225164,2006-08-08,"Grace Road, Leicester","England, India",Test,England,bat,,
+225255,2006-07-13,Lord's,"England, Pakistan",Test,England,bat,,Mohammad Yousuf
+225256,2006-07-27,Old Trafford,"Pakistan, England",Test,Pakistan,bat,England,SJ Harmison
+225257,2006-08-04,Headingley,"England, Pakistan",Test,England,bat,England,Younis Khan
+225258,2006-08-17,Kennington Oval,"England, Pakistan",Test,Pakistan,field,England,
+225264,2006-05-11,Lord's,"England, Sri Lanka",Test,England,bat,,DPMD Jayawardene
+225265,2006-05-25,Edgbaston,"Sri Lanka, England",Test,Sri Lanka,bat,England,KP Pietersen
+225266,2006-06-02,Trent Bridge,"Sri Lanka, England",Test,Sri Lanka,bat,Sri Lanka,M Muralitharan
+225443,2005-11-12,Multan Cricket Stadium,"Pakistan, England",Test,Pakistan,bat,Pakistan,Salman Butt
+226120,2005-11-17,Bellerive Oval,"West Indies, Australia",Test,West Indies,bat,Australia,MEK Hussey
+226350,2005-11-20,Iqbal Stadium,"Pakistan, England",Test,Pakistan,bat,,Inzamam-ul-Haq
+226363,2005-12-18,Sardar Patel Stadium,"India, Sri Lanka",Test,India,bat,India,Harbhajan Singh
+226372,2005-12-26,Melbourne Cricket Ground,"Australia, South Africa",Test,Australia,bat,Australia,MEK Hussey
+226373,2006-01-02,Sydney Cricket Ground,"South Africa, Australia",Test,South Africa,bat,Australia,RT Ponting
+233797,2006-01-21,Iqbal Stadium,"Pakistan, India",Test,Pakistan,bat,,RP Singh
+234783,2006-01-29,National Stadium,"Pakistan, India",Test,India,field,Pakistan,Kamran Akmal
+238167,2006-02-28,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Sri Lanka",Test,Bangladesh,bat,Sri Lanka,Mohammad Ashraful
+238168,2006-03-08,Shaheed Chandu Stadium,"Bangladesh, Sri Lanka",Test,Bangladesh,bat,Sri Lanka,WU Tharanga
+238171,2006-04-09,Khan Shaheb Osman Ali Stadium,"Bangladesh, Australia",Test,Bangladesh,bat,Australia,AC Gilchrist
+238180,2006-03-09,Eden Park,"New Zealand, West Indies",Test,West Indies,field,New Zealand,SE Bond
+238186,2006-03-09,"Punjab Cricket Association IS Bindra Stadium, Mohali","England, India",Test,England,bat,India,A Kumble
+238201,2006-03-16,Newlands,"South Africa, Australia",Test,South Africa,bat,Australia,SR Clark
+238202,2006-03-24,Kingsmead,"Australia, South Africa",Test,Australia,bat,Australia,SK Warne
+238203,2006-03-31,The Wanderers Stadium,"South Africa, Australia",Test,South Africa,bat,Australia,B Lee
+238205,2006-04-15,SuperSport Park,"South Africa, New Zealand",Test,South Africa,bat,South Africa,M Ntini
+238206,2006-04-27,Newlands,"New Zealand, South Africa",Test,South Africa,field,,SP Fleming
+238207,2006-05-05,The Wanderers Stadium,"New Zealand, South Africa",Test,South Africa,field,South Africa,GC Smith
+238217,2006-04-03,Asgiriya Stadium,"Sri Lanka, Pakistan",Test,Pakistan,field,Pakistan,Mohammad Asif
+239025,2006-03-01,Vidarbha C.A. Ground,"England, India",Test,England,bat,,MJ Hoggard
+239920,2006-06-02,"Antigua Recreation Ground, St John's","India, West Indies",Test,India,bat,,W Jaffer
+239921,2006-06-10,"Daren Sammy National Cricket Stadium, Gros Islet","India, West Indies",Test,India,bat,,V Sehwag
+239922,2006-06-22,"Warner Park, Basseterre","West Indies, India",Test,West Indies,bat,,D Ganga
+239923,2006-06-30,"Sabina Park, Kingston","India, West Indies",Test,India,bat,India,R Dravid
+249193,2006-07-27,Sinhalese Sports Club Ground,"South Africa, Sri Lanka",Test,South Africa,bat,Sri Lanka,DPMD Jayawardene
+249194,2006-08-04,P Sara Oval,"South Africa, Sri Lanka",Test,South Africa,bat,Sri Lanka,DPMD Jayawardene
+249215,2006-12-15,The Wanderers Stadium,"India, South Africa",Test,India,bat,India,S Sreesanth
+249216,2006-12-26,Kingsmead,"South Africa, India",Test,South Africa,bat,South Africa,M Ntini
+249217,2007-01-02,Newlands,"India, South Africa",Test,India,bat,South Africa,GC Smith
+249222,2006-11-23,"Brisbane Cricket Ground, Woolloongabba","Australia, England",Test,Australia,bat,Australia,RT Ponting
+249223,2006-12-01,Adelaide Oval,"England, Australia",Test,England,bat,Australia,RT Ponting
+249224,2006-12-14,W.A.C.A. Ground,"Australia, England",Test,Australia,bat,Australia,MEK Hussey
+249225,2006-12-26,Melbourne Cricket Ground,"England, Australia",Test,England,bat,Australia,SK Warne
+249226,2007-01-02,Sydney Cricket Ground,"England, Australia",Test,England,bat,Australia,SR Clark
+250666,2007-01-19,St George's Park,"South Africa, Pakistan",Test,South Africa,bat,Pakistan,Inzamam-ul-Haq
+250667,2007-01-26,Newlands,"Pakistan, South Africa",Test,South Africa,field,South Africa,JH Kallis
+251485,2006-12-07,AMI Stadium,"Sri Lanka, New Zealand",Test,Sri Lanka,bat,New Zealand,SE Bond
+251486,2006-12-15,Basin Reserve,"Sri Lanka, New Zealand",Test,Sri Lanka,bat,Sri Lanka,LPC Silva
+257765,2006-11-11,Gaddafi Stadium,"West Indies, Pakistan",Test,West Indies,bat,Pakistan,Umar Gul
+257766,2006-11-19,Multan Cricket Stadium,"Pakistan, West Indies",Test,Pakistan,bat,,Mohammad Yousuf
+258459,2007-05-17,Lord's,"England, West Indies",Test,West Indies,field,,AN Cook
+258460,2007-05-25,Headingley,"England, West Indies",Test,England,bat,England,KP Pietersen
+258461,2007-06-07,Old Trafford,"England, West Indies",Test,England,bat,England,MS Panesar
+258462,2007-06-15,Riverside Ground,"West Indies, England",Test,England,field,England,S Chanderpaul
+258468,2007-07-19,Lord's,"England, India",Test,England,bat,,KP Pietersen
+258469,2007-07-27,Trent Bridge,"England, India",Test,India,field,India,Z Khan
+258470,2007-08-09,Kennington Oval,"India, England",Test,India,bat,,A Kumble
+282691,2007-05-18,Zahur Ahmed Chowdhury Stadium,"India, Bangladesh",Test,India,bat,,Mashrafe Mortaza
+282692,2007-05-25,"Shere Bangla National Stadium, Mirpur","India, Bangladesh",Test,Bangladesh,field,India,Z Khan
+291222,2007-12-01,Asgiriya Stadium,"Sri Lanka, England",Test,Sri Lanka,bat,Sri Lanka,KC Sangakkara
+291223,2007-12-09,Sinhalese Sports Club Ground,"England, Sri Lanka",Test,England,bat,,DPMD Jayawardene
+291224,2007-12-18,Galle International Stadium,"Sri Lanka, England",Test,England,field,,DPMD Jayawardene
+291338,2007-11-08,"Brisbane Cricket Ground, Woolloongabba","Australia, Sri Lanka",Test,Sri Lanka,field,Australia,B Lee
+291339,2007-11-16,Bellerive Oval,"Australia, Sri Lanka",Test,Australia,bat,Australia,B Lee
+291351,2007-12-26,Melbourne Cricket Ground,"Australia, India",Test,Australia,bat,Australia,ML Hayden
+291352,2008-01-02,Sydney Cricket Ground,"Australia, India",Test,Australia,bat,Australia,A Symonds
+291353,2008-01-16,Western Australia Cricket Association Ground,"Australia, India",Test,India,bat,India,IK Pathan
+291354,2008-01-24,Adelaide Oval,"Australia, India",Test,India,bat,,SR Tendulkar
+293478,2007-06-25,Sinhalese Sports Club Ground,"Bangladesh, Sri Lanka",Test,Sri Lanka,field,Sri Lanka,M Muralitharan
+293479,2007-07-03,P Sara Oval,"Bangladesh, Sri Lanka",Test,Sri Lanka,field,Sri Lanka,KC Sangakkara
+293480,2007-07-11,Asgiriya Stadium,"Bangladesh, Sri Lanka",Test,Sri Lanka,field,Sri Lanka,M Muralitharan
+296900,2008-05-15,Lord's,"England, New Zealand",Test,England,field,,DL Vettori
+296901,2008-05-23,Old Trafford,"England, New Zealand",Test,New Zealand,bat,England,MS Panesar
+296902,2008-06-05,Trent Bridge,"England, New Zealand",Test,New Zealand,field,England,JM Anderson
+296909,2008-07-10,Lord's,"England, South Africa",Test,South Africa,field,,IR Bell
+296910,2008-07-18,Headingley,"England, South Africa",Test,South Africa,field,South Africa,AG Prince
+296911,2008-07-30,Edgbaston,"England, South Africa",Test,England,bat,South Africa,GC Smith
+296912,2008-08-07,Kennington Oval,"England, South Africa",Test,South Africa,bat,England,KP Pietersen
+297806,2007-11-22,Arun Jaitley Stadium,"Pakistan, India",Test,Pakistan,bat,India,A Kumble
+297807,2007-11-30,Eden Gardens,"India, Pakistan",Test,India,bat,,W Jaffer
+297808,2007-12-08,M.Chinnaswamy Stadium,"India, Pakistan",Test,India,bat,,SC Ganguly
+298793,2007-11-08,The Wanderers Stadium,"South Africa, New Zealand",Test,South Africa,bat,South Africa,DW Steyn
+298794,2007-11-16,SuperSport Park,"New Zealand, South Africa",Test,New Zealand,bat,South Africa,DW Steyn
+298801,2007-12-26,St George's Park,"West Indies, South Africa",Test,South Africa,field,West Indies,MN Samuels
+298802,2008-01-02,Newlands,"South Africa, West Indies",Test,West Indies,bat,South Africa,AG Prince
+298803,2008-01-10,Kingsmead,"South Africa, West Indies",Test,South Africa,field,South Africa,AG Prince
+299004,2007-10-01,National Stadium,"South Africa, Pakistan",Test,South Africa,bat,South Africa,JH Kallis
+299005,2007-10-08,Gaddafi Stadium,"South Africa, Pakistan",Test,South Africa,bat,,JH Kallis
+300429,2008-01-04,University Oval,"New Zealand, Bangladesh",Test,New Zealand,field,New Zealand,JDP Oram
+300430,2008-01-12,Basin Reserve,"New Zealand, Bangladesh",Test,New Zealand,field,New Zealand,DL Vettori
+300442,2008-03-05,Seddon Park,"New Zealand, England",Test,New Zealand,bat,New Zealand,DL Vettori
+300443,2008-03-13,Basin Reserve,"New Zealand, England",Test,New Zealand,field,England,TR Ambrose
+300444,2008-03-22,McLean Park,"New Zealand, England",Test,England,bat,England,RJ Sidebottom
+312450,2008-02-15,"Bradman Oval, Bowral","Australia, England",Test,England,field,England,IT Guha
+319132,2008-03-22,Providence Stadium,"West Indies, Sri Lanka",Test,Sri Lanka,bat,Sri Lanka,WPUJC Vaas
+319133,2008-04-03,"Queen's Park Oval, Port of Spain","West Indies, Sri Lanka",Test,West Indies,field,West Indies,RR Sarwan
+319139,2008-05-22,"Sabina Park, Kingston","West Indies, Australia",Test,Australia,bat,Australia,SR Clark
+319140,2008-05-30,"Sir Vivian Richards Stadium, North Sound","West Indies, Australia",Test,Australia,bat,,S Chanderpaul
+319141,2008-06-12,"Kensington Oval, Bridgetown","West Indies, Australia",Test,West Indies,field,Australia,SM Katich
+323947,2008-02-22,Shere Bangla National Stadium,"Bangladesh, South Africa",Test,Bangladesh,bat,South Africa,JH Kallis
+323948,2008-02-29,Chittagong Divisional Stadium,"Bangladesh, South Africa",Test,South Africa,bat,South Africa,GC Smith
+332911,2008-03-26,"MA Chidambaram Stadium, Chepauk","India, South Africa",Test,South Africa,bat,,V Sehwag
+332912,2008-04-03,"Sardar Patel Stadium, Motera","India, South Africa",Test,India,bat,South Africa,AB de Villiers
+332913,2008-04-11,Green Park,"India, South Africa",Test,South Africa,bat,India,SC Ganguly
+343729,2008-07-23,Sinhalese Sports Club Ground,"Sri Lanka, India",Test,Sri Lanka,bat,Sri Lanka,M Muralitharan
+343730,2008-07-31,Galle International Stadium,"Sri Lanka, India",Test,India,bat,India,V Sehwag
+343731,2008-08-08,P Saravanamuttu Stadium,"Sri Lanka, India",Test,India,bat,Sri Lanka,KC Sangakkara
+345669,2008-10-09,M Chinnaswamy Stadium,"India, Australia",Test,Australia,bat,,Z Khan
+345670,2008-10-17,"Punjab Cricket Association Stadium, Mohali","India, Australia",Test,India,bat,India,MS Dhoni
+345671,2008-10-29,Feroz Shah Kotla,"India, Australia",Test,India,bat,,VVS Laxman
+345672,2008-11-06,"Vidarbha Cricket Association Stadium, Jamtha","India, Australia",Test,India,bat,India,JJ Krejza
+345970,2009-07-08,Sophia Gardens,"England, Australia",Test,England,bat,,RT Ponting
+345971,2009-07-16,Lord's,"England, Australia",Test,England,bat,England,A Flintoff
+345972,2009-07-30,Edgbaston,"England, Australia",Test,Australia,bat,,MJ Clarke
+345973,2009-08-07,Headingley,"England, Australia",Test,England,bat,Australia,MJ North
+345974,2009-08-20,Kennington Oval,"England, Australia",Test,England,bat,England,SCJ Broad
+350345,2008-11-19,OUTsurance Oval,"South Africa, Bangladesh",Test,Bangladesh,field,South Africa,GC Smith
+350346,2008-11-26,SuperSport Park,"South Africa, Bangladesh",Test,Bangladesh,bat,South Africa,AG Prince
+350472,2009-02-26,New Wanderers Stadium,"South Africa, Australia",Test,Australia,bat,Australia,MG Johnson
+350473,2009-03-06,Kingsmead,"South Africa, Australia",Test,Australia,bat,Australia,PJ Hughes
+350474,2009-03-19,Newlands,"South Africa, Australia",Test,Australia,bat,South Africa,PL Harris
+351679,2008-11-20,"Brisbane Cricket Ground, Woolloongabba","Australia, New Zealand",Test,New Zealand,field,Australia,MG Johnson
+351680,2008-11-28,Adelaide Oval,"Australia, New Zealand",Test,New Zealand,bat,Australia,BJ Haddin
+351681,2008-12-17,Western Australia Cricket Association Ground,"Australia, South Africa",Test,Australia,bat,South Africa,AB de Villiers
+351682,2008-12-26,Melbourne Cricket Ground,"Australia, South Africa",Test,Australia,bat,South Africa,DW Steyn
+351683,2009-01-03,Sydney Cricket Ground,"Australia, South Africa",Test,Australia,bat,Australia,PM Siddle
+352661,2009-02-04,"Sabina Park, Kingston","West Indies, England",Test,England,bat,West Indies,JE Taylor
+352662,2009-02-13,"Sir Vivian Richards Stadium, North Sound","West Indies, England",Test,West Indies,field,,
+352663,2009-02-26,"Kensington Oval, Bridgetown","West Indies, England",Test,England,bat,,RR Sarwan
+352664,2009-03-06,"Queen's Park Oval, Port of Spain","West Indies, England",Test,England,bat,,MJ Prior
+361050,2008-12-11,"MA Chidambaram Stadium, Chepauk","India, England",Test,England,bat,India,V Sehwag
+361051,2008-12-19,"Punjab Cricket Association Stadium, Mohali","India, England",Test,India,bat,,G Gambhir
+361759,2008-10-25,Shere Bangla National Stadium,"Bangladesh, New Zealand",Test,Bangladesh,field,,DL Vettori
+366628,2009-03-18,Seddon Park,"New Zealand, India",Test,India,field,India,SR Tendulkar
+366629,2009-04-03,Basin Reserve,"New Zealand, India",Test,New Zealand,field,,G Gambhir
+378751,2009-01-03,Chittagong Divisional Stadium,"Bangladesh, Sri Lanka",Test,Sri Lanka,bat,Sri Lanka,TM Dilshan
+380712,2009-05-06,Lord's,"England, West Indies",Test,West Indies,field,England,GP Swann
+380713,2009-05-14,Riverside Ground,"England, West Indies",Test,England,bat,England,JM Anderson
+383288,2009-07-10,"County Ground, New Road, Worcester","Australia, England",Test,Australia,bat,,JM Fields
+386496,2009-03-26,McLean Park,"New Zealand, India",Test,New Zealand,bat,,JD Ryder
+387570,2009-12-16,SuperSport Park,"South Africa, England",Test,England,field,,GP Swann
+387571,2009-12-26,Kingsmead,"South Africa, England",Test,South Africa,bat,England,GP Swann
+387572,2010-01-03,Newlands,"South Africa, England",Test,England,field,,GC Smith
+387573,2010-01-14,New Wanderers Stadium,"South Africa, England",Test,England,bat,South Africa,"M Morkel, DW Steyn"
+388993,2009-02-21,National Stadium,"Pakistan, Sri Lanka",Test,Sri Lanka,bat,,Younis Khan
+388994,2009-03-01,Gaddafi Stadium,"Pakistan, Sri Lanka",Test,Pakistan,field,,
+390680,2009-02-15,"Antigua Recreation Ground, St John's","West Indies, England",Test,West Indies,field,,RR Sarwan
+401071,2009-07-09,"Arnos Vale Ground, Kingstown","West Indies, Bangladesh",Test,Bangladesh,bat,Bangladesh,Tamim Iqbal
+401072,2009-07-17,"National Cricket Stadium, St George's","West Indies, Bangladesh",Test,Bangladesh,field,Bangladesh,Shakib Al Hasan
+403367,2009-07-04,Galle International Stadium,"Sri Lanka, Pakistan",Test,Pakistan,field,Sri Lanka,HMRKB Herath
+403368,2009-07-12,P Sara Oval,"Sri Lanka, Pakistan",Test,Pakistan,bat,Sri Lanka,"Fawad Alam, KMDN Kulasekara"
+403369,2009-07-20,Sinhalese Sports Club Ground,"Sri Lanka, Pakistan",Test,Sri Lanka,field,,KC Sangakkara
+403378,2009-08-18,Galle International Stadium,"Sri Lanka, New Zealand",Test,New Zealand,field,Sri Lanka,TM Dilshan
+403379,2009-08-26,Sinhalese Sports Club Ground,"Sri Lanka, New Zealand",Test,Sri Lanka,bat,Sri Lanka,DPMD Jayawardene
+406189,2009-11-26,"Brisbane Cricket Ground, Woolloongabba","Australia, West Indies",Test,Australia,bat,Australia,BW Hilfenhaus
+406190,2009-12-04,Adelaide Oval,"Australia, West Indies",Test,West Indies,bat,,CH Gayle
+406191,2009-12-16,Western Australia Cricket Association Ground,"Australia, West Indies",Test,Australia,bat,Australia,CH Gayle
+406199,2009-12-26,Melbourne Cricket Ground,"Australia, Pakistan",Test,Australia,bat,Australia,SR Watson
+406200,2010-01-03,Sydney Cricket Ground,"Australia, Pakistan",Test,Australia,bat,Australia,MEK Hussey
+406201,2010-01-14,Bellerive Oval,"Australia, Pakistan",Test,Australia,bat,Australia,RT Ponting
+423778,2009-11-24,University Oval,"New Zealand, Pakistan",Test,Pakistan,field,New Zealand,SE Bond
+423779,2009-12-03,Basin Reserve,"New Zealand, Pakistan",Test,New Zealand,field,Pakistan,Mohammad Asif
+423780,2009-12-11,McLean Park,"New Zealand, Pakistan",Test,Pakistan,bat,,DL Vettori
+423786,2010-02-15,Seddon Park,"New Zealand, Bangladesh",Test,Bangladesh,field,New Zealand,MJ Guptill
+423789,2010-03-19,Basin Reserve,"New Zealand, Australia",Test,Australia,bat,Australia,MJ Clarke
+423790,2010-03-27,Seddon Park,"New Zealand, Australia",Test,Australia,bat,Australia,MG Johnson
+426394,2010-07-13,Lord's,"Australia, Pakistan",Test,Pakistan,field,Australia,"SM Katich, Salman Butt"
+426395,2010-07-21,Headingley,"Australia, Pakistan",Test,Australia,bat,Pakistan,"Mohammad Amir, SR Watson"
+426401,2010-05-27,Lord's,"England, Bangladesh",Test,Bangladesh,field,England,ST Finn
+426402,2010-06-04,Old Trafford,"England, Bangladesh",Test,England,bat,England,IR Bell
+426413,2010-07-29,Trent Bridge,"England, Pakistan",Test,England,bat,England,JM Anderson
+426414,2010-08-06,Edgbaston,"England, Pakistan",Test,Pakistan,bat,England,GP Swann
+426415,2010-08-18,Kennington Oval,"England, Pakistan",Test,England,bat,Pakistan,Mohammad Amir
+426416,2010-08-26,Lord's,"England, Pakistan",Test,Pakistan,field,England,SCJ Broad
+426423,2010-03-12,Zohur Ahmed Chowdhury Stadium,"Bangladesh, England",Test,Bangladesh,field,England,GP Swann
+426424,2010-03-20,Shere Bangla National Stadium,"Bangladesh, England",Test,Bangladesh,bat,England,Shakib Al Hasan
+428749,2010-11-25,"Brisbane Cricket Ground, Woolloongabba","Australia, England",Test,England,bat,,AN Cook
+428750,2010-12-03,Adelaide Oval,"Australia, England",Test,Australia,bat,England,KP Pietersen
+428751,2010-12-16,Western Australia Cricket Association Ground,"Australia, England",Test,England,field,Australia,MG Johnson
+428752,2010-12-26,Melbourne Cricket Ground,"Australia, England",Test,England,field,England,IJL Trott
+428753,2011-01-03,Sydney Cricket Ground,"Australia, England",Test,Australia,bat,England,AN Cook
+430881,2009-11-16,"Sardar Patel Stadium, Motera","India, Sri Lanka",Test,India,bat,,DPMD Jayawardene
+430882,2009-11-24,Green Park,"India, Sri Lanka",Test,India,bat,India,S Sreesanth
+430883,2009-12-02,Brabourne Stadium,"India, Sri Lanka",Test,Sri Lanka,bat,India,V Sehwag
+434256,2010-01-17,Zahur Ahmed Chowdhury Stadium,"Bangladesh, India",Test,Bangladesh,field,India,SR Tendulkar
+434257,2010-01-24,Shere Bangla National Stadium,"Bangladesh, India",Test,Bangladesh,bat,India,Z Khan
+439152,2010-06-10,"Queen's Park Oval, Port of Spain","West Indies, South Africa",Test,South Africa,bat,South Africa,DW Steyn
+439153,2010-06-18,"Warner Park, Basseterre","West Indies, South Africa",Test,South Africa,bat,,S Chanderpaul
+439154,2010-06-26,"Kensington Oval, Bridgetown","West Indies, South Africa",Test,West Indies,bat,South Africa,J Botha
+441825,2010-02-06,"Vidarbha Cricket Association Stadium, Jamtha","India, South Africa",Test,South Africa,bat,South Africa,HM Amla
+441826,2010-02-14,Eden Gardens,"India, South Africa",Test,South Africa,bat,India,HM Amla
+456669,2010-07-18,Galle International Stadium,"Sri Lanka, India",Test,Sri Lanka,bat,Sri Lanka,SL Malinga
+456670,2010-07-26,Sinhalese Sports Club Ground,"Sri Lanka, India",Test,Sri Lanka,bat,,KC Sangakkara
+456671,2010-08-03,P Sara Oval,"Sri Lanka, India",Test,Sri Lanka,bat,India,VVS Laxman
+461571,2010-11-12,Dubai International Cricket Stadium,"Pakistan, South Africa",Test,South Africa,bat,,Younis Khan
+461572,2010-11-20,Sheikh Zayed Stadium,"Pakistan, South Africa",Test,Pakistan,field,,AB de Villiers
+463146,2010-12-16,SuperSport Park,"South Africa, India",Test,South Africa,field,South Africa,JH Kallis
+463147,2010-12-26,Kingsmead,"South Africa, India",Test,South Africa,field,India,VVS Laxman
+463148,2011-01-02,Newlands,"South Africa, India",Test,India,field,,JH Kallis
+464526,2010-10-01,"Punjab Cricket Association Stadium, Mohali","India, Australia",Test,Australia,bat,India,Z Khan
+464527,2010-10-09,M Chinnaswamy Stadium,"India, Australia",Test,Australia,bat,India,SR Tendulkar
+464531,2010-11-04,"Sardar Patel Stadium, Motera","India, New Zealand",Test,India,bat,,Harbhajan Singh
+464532,2010-11-12,"Rajiv Gandhi International Stadium, Uppal","India, New Zealand",Test,New Zealand,bat,,BB McCullum
+464533,2010-11-20,"Vidarbha Cricket Association Stadium, Jamtha","India, New Zealand",Test,New Zealand,bat,India,R Dravid
+464987,2010-11-15,Galle International Stadium,"Sri Lanka, West Indies",Test,West Indies,bat,,CH Gayle
+464988,2010-11-23,R Premadasa Stadium,"Sri Lanka, West Indies",Test,Sri Lanka,bat,,KC Sangakkara
+464989,2010-12-01,Pallekele International Cricket Stadium,"Sri Lanka, West Indies",Test,Sri Lanka,field,,
+473921,2011-01-07,Seddon Park,"New Zealand, Pakistan",Test,Pakistan,field,Pakistan,Abdur Rehman
+473922,2011-01-15,Basin Reserve,"New Zealand, Pakistan",Test,New Zealand,bat,,Misbah-ul-Haq
+474463,2011-05-26,Sophia Gardens,"England, Sri Lanka",Test,Sri Lanka,bat,England,IJL Trott
+474464,2011-06-03,Lord's,"England, Sri Lanka",Test,Sri Lanka,field,,TM Dilshan
+474465,2011-06-16,The Rose Bowl,"England, Sri Lanka",Test,England,field,,CT Tremlett
+474472,2011-07-21,Lord's,"England, India",Test,India,field,England,KP Pietersen
+474473,2011-07-29,Trent Bridge,"England, India",Test,India,field,England,SCJ Broad
+474474,2011-08-10,Edgbaston,"England, India",Test,England,field,England,AN Cook
+474475,2011-08-18,Kennington Oval,"England, India",Test,England,bat,England,IR Bell
+474625,2011-01-22,"Bankstown Oval, Sydney","England, Australia",Test,England,bat,Australia,RM Farrell
+489218,2011-05-12,Providence Stadium,"West Indies, Pakistan",Test,West Indies,bat,West Indies,DJG Sammy
+489219,2011-05-20,"Warner Park, Basseterre","West Indies, Pakistan",Test,Pakistan,bat,Pakistan,Taufeeq Umar
+489226,2011-06-20,"Sabina Park, Kingston","West Indies, India",Test,India,bat,India,R Dravid
+489227,2011-06-28,"Kensington Oval, Bridgetown","West Indies, India",Test,West Indies,field,,I Sharma
+489228,2011-07-06,"Windsor Park, Roseau","West Indies, India",Test,India,field,,S Chanderpaul
+514029,2011-11-09,Newlands,"South Africa, Australia",Test,South Africa,field,South Africa,VD Philander
+514030,2011-11-17,New Wanderers Stadium,"South Africa, Australia",Test,South Africa,bat,Australia,PJ Cummins
+514032,2011-12-15,SuperSport Park,"South Africa, Sri Lanka",Test,South Africa,field,South Africa,VD Philander
+514033,2011-12-26,Kingsmead,"South Africa, Sri Lanka",Test,Sri Lanka,bat,Sri Lanka,HMRKB Herath
+514034,2012-01-03,Newlands,"South Africa, Sri Lanka",Test,Sri Lanka,field,South Africa,JH Kallis
+516212,2011-08-31,Galle International Stadium,"Sri Lanka, Australia",Test,Australia,bat,Australia,MEK Hussey
+516213,2011-09-08,Pallekele International Cricket Stadium,"Sri Lanka, Australia",Test,Sri Lanka,bat,,MEK Hussey
+516214,2011-09-16,Sinhalese Sports Club Ground,"Sri Lanka, Australia",Test,Sri Lanka,field,,MEK Hussey
+518947,2011-12-01,"Brisbane Cricket Ground, Woolloongabba","Australia, New Zealand",Test,New Zealand,bat,Australia,JL Pattinson
+518948,2011-12-09,Bellerive Oval,"Australia, New Zealand",Test,Australia,field,New Zealand,DA Warner
+518950,2011-12-26,Melbourne Cricket Ground,"Australia, India",Test,Australia,bat,Australia,JL Pattinson
+518951,2012-01-03,Sydney Cricket Ground,"Australia, India",Test,India,bat,Australia,MJ Clarke
+518952,2012-01-13,Western Australia Cricket Association Ground,"Australia, India",Test,Australia,field,Australia,DA Warner
+518953,2012-01-24,Adelaide Oval,"Australia, India",Test,Australia,bat,Australia,PM Siddle
+520591,2012-01-26,McLean Park,"New Zealand, Zimbabwe",Test,Zimbabwe,field,New Zealand,CS Martin
+520603,2012-03-07,University Oval,"New Zealand, South Africa",Test,New Zealand,field,,GC Smith
+520604,2012-03-15,Seddon Park,"New Zealand, South Africa",Test,South Africa,field,South Africa,VD Philander
+520605,2012-03-23,Basin Reserve,"New Zealand, South Africa",Test,New Zealand,field,,M Morkel
+521225,2012-03-26,Galle International Stadium,"Sri Lanka, England",Test,Sri Lanka,bat,Sri Lanka,HMRKB Herath
+521226,2012-04-03,P Sara Oval,"Sri Lanka, England",Test,Sri Lanka,bat,England,KP Pietersen
+522245,2011-08-04,Harare Sports Club,"Zimbabwe, Bangladesh",Test,Bangladesh,field,Zimbabwe,BRM Taylor
+523731,2011-09-01,Queens Sports Club,"Zimbabwe, Pakistan",Test,Pakistan,field,Pakistan,Mohammad Hafeez
+527017,2011-11-01,Queens Sports Club,"Zimbabwe, New Zealand",Test,New Zealand,bat,New Zealand,DL Vettori
+530424,2011-10-18,Sheikh Zayed Stadium,"Pakistan, Sri Lanka",Test,Pakistan,field,,KC Sangakkara
+530425,2011-10-26,Dubai International Cricket Stadium,"Pakistan, Sri Lanka",Test,Sri Lanka,bat,Pakistan,Saeed Ajmal
+530426,2011-11-03,Sharjah Cricket Stadium,"Pakistan, Sri Lanka",Test,Sri Lanka,bat,,KC Sangakkara
+531628,2012-01-17,Dubai International Cricket Stadium,"England, Pakistan",Test,England,bat,Pakistan,Saeed Ajmal
+531629,2012-01-25,Sheikh Zayed Stadium,"England, Pakistan",Test,Pakistan,bat,Pakistan,Abdur Rehman
+531630,2012-02-03,Dubai International Cricket Stadium,"England, Pakistan",Test,Pakistan,bat,Pakistan,Azhar Ali
+531986,2011-10-21,Zahur Ahmed Chowdhury Stadium,"Bangladesh, West Indies",Test,Bangladesh,bat,,Elias Sunny
+531987,2011-10-29,Shere Bangla National Stadium,"Bangladesh, West Indies",Test,West Indies,bat,West Indies,KA Edwards
+534205,2012-05-17,Lord's,"England, West Indies",Test,England,field,England,SCJ Broad
+534206,2012-05-25,Trent Bridge,"England, West Indies",Test,West Indies,bat,England,TT Bresnan
+534207,2012-06-07,Edgbaston,"England, West Indies",Test,England,field,,TL Best
+534225,2012-07-19,Kennington Oval,"England, South Africa",Test,England,bat,South Africa,HM Amla
+534226,2012-08-02,Headingley,"England, South Africa",Test,England,field,,KP Pietersen
+534227,2012-08-16,Lord's,"England, South Africa",Test,South Africa,bat,South Africa,VD Philander
+535997,2011-11-06,Feroz Shah Kotla,"India, West Indies",Test,West Indies,bat,India,R Ashwin
+535998,2011-11-14,Eden Gardens,"India, West Indies",Test,India,bat,India,VVS Laxman
+535999,2011-11-22,Wankhede Stadium,"India, West Indies",Test,West Indies,bat,,R Ashwin
+538072,2011-12-09,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Pakistan",Test,Pakistan,field,Pakistan,Younis Khan
+538073,2011-12-17,Shere Bangla National Stadium,"Bangladesh, Pakistan",Test,Pakistan,field,Pakistan,Shakib Al Hasan
+540176,2012-04-07,"Kensington Oval, Bridgetown","West Indies, Australia",Test,West Indies,bat,Australia,RJ Harris
+540177,2012-04-15,"Queen's Park Oval, Port of Spain","West Indies, Australia",Test,Australia,bat,,KAJ Roach
+540178,2012-04-23,"Windsor Park, Roseau","West Indies, Australia",Test,Australia,bat,Australia,MS Wade
+560929,2012-07-25,"Sir Vivian Richards Stadium, North Sound","West Indies, New Zealand",Test,New Zealand,bat,West Indies,SP Narine
+560930,2012-08-02,"Sabina Park, Kingston","West Indies, New Zealand",Test,West Indies,field,West Indies,MN Samuels
+562444,2012-06-22,Galle International Stadium,"Sri Lanka, Pakistan",Test,Sri Lanka,bat,Sri Lanka,KC Sangakkara
+562445,2012-06-30,Sinhalese Sports Club Ground,"Sri Lanka, Pakistan",Test,Sri Lanka,field,,Junaid Khan
+562446,2012-07-08,Pallekele International Cricket Stadium,"Sri Lanka, Pakistan",Test,Sri Lanka,field,,Asad Shafiq
+565806,2012-11-15,"Sardar Patel Stadium, Motera","India, England",Test,India,bat,India,CA Pujara
+565807,2012-11-23,Wankhede Stadium,"India, England",Test,India,bat,England,KP Pietersen
+565808,2012-12-05,Eden Gardens,"India, England",Test,India,bat,England,AN Cook
+565809,2012-12-13,"Vidarbha Cricket Association Stadium, Jamtha","India, England",Test,England,bat,,JM Anderson
+565817,2012-08-23,"Rajiv Gandhi International Stadium, Uppal","India, New Zealand",Test,India,bat,India,R Ashwin
+565818,2012-08-31,M Chinnaswamy Stadium,"India, New Zealand",Test,New Zealand,bat,India,V Kohli
+566921,2013-05-16,Lord's,"England, New Zealand",Test,England,bat,England,SCJ Broad
+566922,2013-05-24,Headingley,"England, New Zealand",Test,England,bat,England,GP Swann
+566932,2013-07-10,Trent Bridge,"England, Australia",Test,England,bat,England,JM Anderson
+566933,2013-07-18,Lord's,"England, Australia",Test,England,bat,England,JE Root
+566934,2013-08-01,Old Trafford,"England, Australia",Test,Australia,bat,,MJ Clarke
+566935,2013-08-09,Riverside Ground,"England, Australia",Test,England,bat,England,SCJ Broad
+566936,2013-08-21,Kennington Oval,"England, Australia",Test,Australia,bat,,SR Watson
+567356,2013-01-02,Newlands,"South Africa, New Zealand",Test,New Zealand,bat,South Africa,VD Philander
+567357,2013-01-11,St George's Park,"South Africa, New Zealand",Test,South Africa,bat,South Africa,DW Steyn
+567363,2013-02-01,New Wanderers Stadium,"South Africa, Pakistan",Test,South Africa,bat,South Africa,DW Steyn
+567364,2013-02-14,Newlands,"South Africa, Pakistan",Test,South Africa,field,South Africa,RJ Peterson
+567365,2013-02-22,SuperSport Park,"South Africa, Pakistan",Test,South Africa,bat,South Africa,KJ Abbott
+569243,2013-03-06,University Oval,"New Zealand, England",Test,New Zealand,field,,
+569244,2013-03-14,Basin Reserve,"New Zealand, England",Test,New Zealand,field,,
+569245,2013-03-22,Eden Park,"New Zealand, England",Test,England,field,,
+573007,2012-11-09,"Brisbane Cricket Ground, Woolloongabba","Australia, South Africa",Test,South Africa,bat,,MJ Clarke
+573008,2012-11-22,Adelaide Oval,"Australia, South Africa",Test,Australia,bat,,F du Plessis
+573009,2012-11-30,Western Australia Cricket Association Ground,"Australia, South Africa",Test,South Africa,bat,South Africa,HM Amla
+573011,2012-12-14,Bellerive Oval,"Australia, Sri Lanka",Test,Australia,bat,Australia,PM Siddle
+573012,2012-12-26,Melbourne Cricket Ground,"Australia, Sri Lanka",Test,Sri Lanka,bat,Australia,MG Johnson
+573013,2013-01-03,Sydney Cricket Ground,"Australia, Sri Lanka",Test,Australia,field,Australia,JM Bird
+582192,2012-11-17,Galle International Stadium,"Sri Lanka, New Zealand",Test,New Zealand,bat,Sri Lanka,HMRKB Herath
+582193,2012-11-25,P Sara Oval,"Sri Lanka, New Zealand",Test,New Zealand,bat,New Zealand,LRPL Taylor
+587469,2012-11-13,Shere Bangla National Stadium,"Bangladesh, West Indies",Test,West Indies,bat,West Indies,KOA Powell
+587470,2012-11-21,Sheikh Abu Naser Stadium,"Bangladesh, West Indies",Test,Bangladesh,bat,West Indies,MN Samuels
+592397,2013-11-21,"Brisbane Cricket Ground, Woolloongabba","Australia, England",Test,Australia,bat,Australia,MG Johnson
+592398,2013-12-05,Adelaide Oval,"Australia, England",Test,Australia,bat,Australia,MG Johnson
+592399,2013-12-13,Western Australia Cricket Association Ground,"Australia, England",Test,Australia,bat,Australia,SPD Smith
+592400,2013-12-26,Melbourne Cricket Ground,"Australia, England",Test,Australia,field,Australia,MG Johnson
+592401,2014-01-03,Sydney Cricket Ground,"Australia, England",Test,England,field,Australia,RJ Harris
+593722,2013-08-11,Sir Paul Getty's Ground,"England, Australia",Test,Australia,bat,,HC Knight
+593988,2013-03-12,"Kensington Oval, Bridgetown","West Indies, Zimbabwe",Test,Zimbabwe,bat,West Indies,S Shillingford
+593989,2013-03-20,"Windsor Park, Roseau","West Indies, Zimbabwe",Test,West Indies,field,West Indies,S Shillingford
+598812,2013-02-22,"MA Chidambaram Stadium, Chepauk","India, Australia",Test,Australia,bat,India,MS Dhoni
+598813,2013-03-02,"Rajiv Gandhi International Stadium, Uppal","India, Australia",Test,Australia,bat,India,CA Pujara
+598814,2013-03-14,"Punjab Cricket Association Stadium, Mohali","India, Australia",Test,Australia,bat,India,S Dhawan
+598815,2013-03-22,Feroz Shah Kotla,"India, Australia",Test,Australia,bat,India,RA Jadeja
+602472,2013-03-08,Galle International Stadium,"Sri Lanka, Bangladesh",Test,Sri Lanka,bat,,Mushfiqur Rahim
+602473,2013-03-16,R Premadasa Stadium,"Sri Lanka, Bangladesh",Test,Sri Lanka,field,Sri Lanka,HMRKB Herath
+623576,2013-04-17,Harare Sports Club,"Zimbabwe, Bangladesh",Test,Bangladesh,field,Zimbabwe,BRM Taylor
+623577,2013-04-25,Harare Sports Club,"Zimbabwe, Bangladesh",Test,Zimbabwe,field,Bangladesh,Mushfiqur Rahim
+63963,2001-12-19,"M Chinnaswamy Stadium, Bangalore","England, India",Test,England,bat,,A Flintoff
+64012,2002-12-26,Melbourne Cricket Ground,"Australia, England",Test,Australia,bat,Australia,JL Langer
+64013,2003-01-02,Sydney Cricket Ground,"England, Australia",Test,England,bat,England,MP Vaughan
+64022,2002-12-26,"Kingsmead, Durban","South Africa, Pakistan",Test,Pakistan,field,South Africa,JH Kallis
+64023,2003-01-02,"Newlands, Cape Town","South Africa, Pakistan",Test,South Africa,bat,South Africa,HH Gibbs
+64027,2003-05-09,"Antigua Recreation Ground, St John's, Antigua","Australia, West Indies",Test,Australia,bat,West Indies,S Chanderpaul
+64036,2003-07-18,"Marrara Cricket Ground, Darwin","Bangladesh, Australia",Test,Australia,field,Australia,SR Waugh
+64038,2003-07-24,"Edgbaston, Birmingham","South Africa, England",Test,South Africa,bat,,GC Smith
+64040,2003-08-14,"Trent Bridge, Nottingham","England, South Africa",Test,England,bat,England,RJ Kirtley
+64041,2003-08-21,"Headingley, Leeds","South Africa, England",Test,South Africa,bat,South Africa,G Kirsten
+64042,2003-09-04,"Kennington Oval, London","South Africa, England",Test,South Africa,bat,England,ME Trescothick
+64045,2003-09-03,Multan Cricket Stadium,"Bangladesh, Pakistan",Test,Bangladesh,bat,Pakistan,Inzamam-ul-Haq
+64047,2003-10-16,"Punjab Cricket Association Stadium, Mohali, Chandigarh","New Zealand, India",Test,New Zealand,bat,,DR Tuffey
+64048,2003-10-09,"Western Australia Cricket Association Ground, Perth","Australia, Zimbabwe",Test,Zimbabwe,field,Australia,ML Hayden
+64049,2003-10-17,Sydney Cricket Ground,"Zimbabwe, Australia",Test,Zimbabwe,bat,Australia,RT Ponting
+64050,2003-10-17,"Gaddafi Stadium, Lahore","South Africa, Pakistan",Test,South Africa,bat,Pakistan,"Taufeeq Umar, Danish Kaneria"
+64051,2003-10-24,"Iqbal Stadium, Faisalabad","South Africa, Pakistan",Test,South Africa,bat,,"G Kirsten, Taufeeq Umar"
+64052,2003-10-21,"Bangabandhu National Stadium, Dhaka","Bangladesh, England",Test,Bangladesh,bat,England,SJ Harmison
+64053,2003-10-29,"MA Aziz Stadium, Chittagong","England, Bangladesh",Test,Bangladesh,field,England,RL Johnson
+64055,2003-11-12,"Queens Sports Club, Bulawayo","West Indies, Zimbabwe",Test,West Indies,bat,West Indies,BC Lara
+64058,2003-12-18,"Sinhalese Sports Club Ground, Colombo","England, Sri Lanka",Test,England,bat,Sri Lanka,TT Samaraweera
+64059,2003-12-04,"Brisbane Cricket Ground, Woolloongabba, Brisbane","Australia, India",Test,India,field,,SC Ganguly
+64062,2004-01-02,Sydney Cricket Ground,"India, Australia",Test,India,bat,,SR Tendulkar
+64063,2003-12-12,"New Wanderers Stadium, Johannesburg","South Africa, West Indies",Test,South Africa,bat,South Africa,M Ntini
+64071,2004-03-08,Galle International Stadium,"Australia, Sri Lanka",Test,Australia,bat,Australia,ML Hayden
+64075,2004-03-18,Eden Park,"South Africa, New Zealand",Test,New Zealand,field,New Zealand,CS Martin
+64076,2004-03-26,"Basin Reserve, Wellington","New Zealand, South Africa",Test,South Africa,field,South Africa,GC Smith
+64080,2004-04-10,Antigua Recreation Ground,"West Indies, England",Test,West Indies,bat,,BC Lara
+64083,2004-04-13,Rawalpindi Cricket Stadium,"Pakistan, India",Test,India,field,India,R Dravid
+64094,2004-07-29,Edgbaston,"England, West Indies",Test,England,bat,England,A Flintoff
+64096,2004-08-19,Kennington Oval,"England, West Indies",Test,England,bat,England,SJ Harmison
+64100,2004-10-14,MA Chidambaram Stadium,"Australia, India",Test,Australia,bat,,A Kumble
+64102,2004-11-03,Wankhede Stadium,"India, Australia",Test,India,bat,India,M Kartik
+64104,2004-10-26,MA Aziz Stadium,"New Zealand, Bangladesh",Test,New Zealand,bat,New Zealand,SP Fleming
+64107,2004-11-18,Brisbane Cricket Ground,"New Zealand, Australia",Test,New Zealand,bat,Australia,MJ Clarke
+64108,2004-11-26,Adelaide Oval,"Australia, New Zealand",Test,Australia,bat,Australia,JL Langer
+64109,2004-11-20,Green Park,"South Africa, India",Test,South Africa,bat,,AJ Hall
+64110,2004-11-28,Eden Gardens,"South Africa, India",Test,South Africa,bat,India,Harbhajan Singh
+64111,2004-12-10,Bangabandhu National Stadium,"Bangladesh, India",Test,India,field,India,IK Pathan
+64113,2004-12-16,W.A.C.A. Ground,"Australia, Pakistan",Test,Pakistan,field,Australia,JL Langer
+64118,2005-01-02,Newlands,"South Africa, England",Test,South Africa,bat,South Africa,JH Kallis
+64123,2005-03-04,Newlands,"Zimbabwe, South Africa",Test,Zimbabwe,bat,South Africa,JH Kallis
+64124,2005-03-11,SuperSport Park,"Zimbabwe, South Africa",Test,South Africa,field,South Africa,M Zondeki
+64128,2005-03-10,AMI Stadium,"New Zealand, Australia",Test,Australia,field,Australia,AC Gilchrist
+64129,2005-03-18,Basin Reserve,"Australia, New Zealand",Test,New Zealand,field,,AC Gilchrist
+64134,2005-04-11,Basin Reserve,"Sri Lanka, New Zealand",Test,New Zealand,field,New Zealand,L Vincent
+648665,2013-12-18,New Wanderers Stadium,"South Africa, India",Test,India,bat,,V Kohli
+648667,2013-12-26,Kingsmead,"South Africa, India",Test,India,bat,South Africa,DW Steyn
+648673,2014-02-12,SuperSport Park,"South Africa, Australia",Test,South Africa,field,Australia,MG Johnson
+648675,2014-02-20,St George's Park,"South Africa, Australia",Test,South Africa,bat,South Africa,JP Duminy
+648677,2014-03-01,Newlands,"South Africa, Australia",Test,Australia,bat,Australia,DA Warner
+649087,2013-10-14,Sheikh Zayed Stadium,"Pakistan, South Africa",Test,South Africa,bat,Pakistan,Khurram Manzoor
+649089,2013-10-23,Dubai International Cricket Stadium,"Pakistan, South Africa",Test,Pakistan,bat,South Africa,GC Smith
+657647,2013-12-31,Sheikh Zayed Stadium,"Pakistan, Sri Lanka",Test,Pakistan,field,,AD Mathews
+657649,2014-01-08,Dubai International Cricket Stadium,"Pakistan, Sri Lanka",Test,Sri Lanka,field,Sri Lanka,DPMD Jayawardene
+657651,2014-01-16,Sharjah Cricket Stadium,"Pakistan, Sri Lanka",Test,Sri Lanka,bat,Pakistan,Azhar Ali
+659555,2013-09-03,Harare Sports Club,"Zimbabwe, Pakistan",Test,Zimbabwe,field,Pakistan,Younis Khan
+659557,2013-09-10,Harare Sports Club,"Zimbabwe, Pakistan",Test,Zimbabwe,bat,Zimbabwe,TL Chatara
+661679,2013-12-03,University Oval,"New Zealand, West Indies",Test,West Indies,field,,LRPL Taylor
+661681,2013-12-11,Basin Reserve,"New Zealand, West Indies",Test,West Indies,field,New Zealand,TA Boult
+661683,2013-12-19,Seddon Park,"New Zealand, West Indies",Test,New Zealand,field,New Zealand,LRPL Taylor
+667651,2014-02-06,Eden Park,"New Zealand, India",Test,India,field,New Zealand,BB McCullum
+667653,2014-02-14,Basin Reserve,"New Zealand, India",Test,India,field,,BB McCullum
+667711,2014-07-09,Trent Bridge,"England, India",Test,India,bat,,JM Anderson
+667713,2014-07-17,Lord's,"England, India",Test,England,field,India,I Sharma
+667715,2014-07-27,The Rose Bowl,"England, India",Test,England,bat,England,JM Anderson
+667717,2014-08-07,Old Trafford,"England, India",Test,India,bat,England,SCJ Broad
+667719,2014-08-15,Kennington Oval,"England, India",Test,England,field,England,JE Root
+667899,2014-06-12,Lord's,"England, Sri Lanka",Test,Sri Lanka,field,,JE Root
+667901,2014-06-20,Headingley,"England, Sri Lanka",Test,England,field,Sri Lanka,AD Mathews
+668949,2013-10-09,Zahur Ahmed Chowdhury Stadium,"Bangladesh, New Zealand",Test,New Zealand,bat,,Sohag Gazi
+668951,2013-10-21,Shere Bangla National Stadium,"Bangladesh, New Zealand",Test,Bangladesh,bat,,Mominul Haque
+67517,2003-02-22,"Bankstown Oval, Sydney","Australia, England",Test,England,field,,LC Pearson
+676525,2013-11-06,Eden Gardens,"India, West Indies",Test,West Indies,bat,India,RG Sharma
+676527,2013-11-14,Wankhede Stadium,"India, West Indies",Test,India,field,India,PP Ojha
+690347,2014-01-27,Shere Bangla National Stadium,"Bangladesh, Sri Lanka",Test,Sri Lanka,field,Sri Lanka,DPMD Jayawardene
+690349,2014-02-04,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Sri Lanka",Test,Sri Lanka,bat,,KC Sangakkara
+722329,2014-12-17,SuperSport Park,"South Africa, West Indies",Test,West Indies,field,South Africa,HM Amla
+722331,2014-12-26,St George's Park,"South Africa, West Indies",Test,West Indies,field,,KC Brathwaite
+722333,2015-01-02,Newlands,"South Africa, West Indies",Test,West Indies,bat,South Africa,AB de Villiers
+722387,2014-08-13,Sir Paul Getty's Ground,"England, India",Test,India,field,India,JL Gunn
+727927,2014-10-22,Dubai International Cricket Stadium,"Australia, Pakistan",Test,Pakistan,bat,Pakistan,Younis Khan
+727929,2014-10-30,Sheikh Zayed Stadium,"Australia, Pakistan",Test,Pakistan,bat,Pakistan,Misbah-ul-Haq
+730089,2014-07-16,Galle International Stadium,"Sri Lanka, South Africa",Test,South Africa,bat,South Africa,DW Steyn
+730091,2014-07-24,Sinhalese Sports Club Ground,"Sri Lanka, South Africa",Test,Sri Lanka,bat,,DPMD Jayawardene
+730277,2014-06-08,"Sabina Park, Kingston","West Indies, New Zealand",Test,New Zealand,bat,New Zealand,MD Craig
+730279,2014-06-16,"Queen's Park Oval, Port of Spain","West Indies, New Zealand",Test,New Zealand,bat,West Indies,KC Brathwaite
+730281,2014-06-26,"Kensington Oval, Bridgetown","West Indies, New Zealand",Test,New Zealand,bat,New Zealand,KS Williamson
+730295,2014-09-05,"Arnos Vale Ground, Kingstown","West Indies, Bangladesh",Test,Bangladesh,field,West Indies,KC Brathwaite
+730297,2014-09-13,"Beausejour Stadium, Gros Islet","West Indies, Bangladesh",Test,Bangladesh,field,West Indies,S Chanderpaul
+736435,2014-08-09,Harare Sports Club,"Zimbabwe, South Africa",Test,Zimbabwe,bat,South Africa,DL Piedt
+742611,2014-11-09,Sheikh Zayed Stadium,"New Zealand, Pakistan",Test,Pakistan,bat,Pakistan,Rahat Ali
+742613,2014-11-17,Dubai International Cricket Stadium,"New Zealand, Pakistan",Test,New Zealand,bat,,LRPL Taylor
+742615,2014-11-26,Sharjah Cricket Stadium,"New Zealand, Pakistan",Test,Pakistan,bat,New Zealand,MD Craig
+743939,2015-05-21,Lord's,"England, New Zealand",Test,New Zealand,field,England,BA Stokes
+743941,2015-05-29,Headingley,"England, New Zealand",Test,England,field,New Zealand,BJ Watling
+743963,2015-07-08,Sophia Gardens,"England, Australia",Test,England,bat,England,JE Root
+743965,2015-07-16,Lord's,"England, Australia",Test,Australia,bat,Australia,SPD Smith
+743967,2015-07-29,Edgbaston,"England, Australia",Test,Australia,bat,England,ST Finn
+743969,2015-08-06,Trent Bridge,"England, Australia",Test,England,field,England,SCJ Broad
+743971,2015-08-20,Kennington Oval,"England, Australia",Test,England,field,Australia,SPD Smith
+745153,2014-08-06,Galle International Stadium,"Sri Lanka, Pakistan",Test,Pakistan,bat,Sri Lanka,HMRKB Herath
+745155,2014-08-14,Sinhalese Sports Club Ground,"Sri Lanka, Pakistan",Test,Sri Lanka,bat,Sri Lanka,HMRKB Herath
+749777,2014-12-26,Hagley Oval,"New Zealand, Sri Lanka",Test,Sri Lanka,field,New Zealand,BB McCullum
+749779,2015-01-03,Basin Reserve,"New Zealand, Sri Lanka",Test,Sri Lanka,field,New Zealand,KS Williamson
+754737,2014-12-09,Adelaide Oval,"Australia, India",Test,Australia,bat,Australia,NM Lyon
+754739,2014-12-17,"Brisbane Cricket Ground, Woolloongabba","Australia, India",Test,India,bat,Australia,SPD Smith
+754741,2014-12-26,Melbourne Cricket Ground,"Australia, India",Test,Australia,bat,,RJ Harris
+754743,2015-01-06,Sydney Cricket Ground,"Australia, India",Test,Australia,bat,,SPD Smith
+760781,2014-10-25,Shere Bangla National Stadium,"Bangladesh, Zimbabwe",Test,Zimbabwe,bat,Bangladesh,Taijul Islam
+760783,2014-11-03,Sheikh Abu Naser Stadium,"Bangladesh, Zimbabwe",Test,Bangladesh,bat,Bangladesh,Shakib Al Hasan
+760785,2014-11-12,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Zimbabwe",Test,Bangladesh,bat,Bangladesh,Mominul Haque
+766929,2015-04-13,"Sir Vivian Richards Stadium, North Sound","West Indies, England",Test,West Indies,field,,JO Holder
+766931,2015-04-21,"National Cricket Stadium, St George's","West Indies, England",Test,England,field,England,JE Root
+766933,2015-05-01,"Kensington Oval, Bridgetown","West Indies, England",Test,England,bat,West Indies,J Blackwood
+798375,2015-08-11,St Lawrence Ground,"England, Australia",Test,Australia,bat,Australia,JL Jonassen
+800461,2015-12-26,Kingsmead,"South Africa, England",Test,South Africa,field,England,MM Ali
+800463,2016-01-02,Newlands,"South Africa, England",Test,England,bat,,BA Stokes
+800465,2016-01-14,New Wanderers Stadium,"South Africa, England",Test,South Africa,bat,England,SCJ Broad
+800467,2016-01-22,SuperSport Park,"South Africa, England",Test,South Africa,bat,South Africa,K Rabada
+810423,2015-06-03,"Windsor Park, Roseau","West Indies, Australia",Test,West Indies,bat,Australia,AC Voges
+810425,2015-06-11,"Sabina Park, Kingston","West Indies, Australia",Test,West Indies,field,Australia,SPD Smith
+817213,2015-07-21,Zahur Ahmed Chowdhury Stadium,"Bangladesh, South Africa",Test,South Africa,bat,,Mustafizur Rahman
+817215,2015-07-30,Shere Bangla National Stadium,"Bangladesh, South Africa",Test,Bangladesh,bat,,Mushfiqur Rahim
+858493,2015-04-28,Sheikh Abu Naser Stadium,"Bangladesh, Pakistan",Test,Bangladesh,bat,,Tamim Iqbal
+858495,2015-05-06,Shere Bangla National Stadium,"Bangladesh, Pakistan",Test,Bangladesh,field,Pakistan,Azhar Ali
+860263,2015-06-17,Galle International Stadium,"Sri Lanka, Pakistan",Test,Pakistan,field,Pakistan,Sarfraz Ahmed
+860265,2015-06-25,P Sara Oval,"Sri Lanka, Pakistan",Test,Pakistan,bat,Sri Lanka,KTGD Prasad
+860267,2015-07-03,Pallekele International Cricket Stadium,"Sri Lanka, Pakistan",Test,Pakistan,field,Pakistan,Younis Khan
+870729,2015-06-10,Khan Shaheb Osman Ali Stadium,"Bangladesh, India",Test,India,bat,,S Dhawan
+892509,2015-11-05,"Brisbane Cricket Ground, Woolloongabba","Australia, New Zealand",Test,Australia,bat,Australia,DA Warner
+892511,2015-11-13,Western Australia Cricket Association Ground,"Australia, New Zealand",Test,Australia,bat,,LRPL Taylor
+892513,2015-11-27,Adelaide Oval,"Australia, New Zealand",Test,New Zealand,bat,Australia,JR Hazlewood
+892515,2015-12-10,Bellerive Oval,"Australia, West Indies",Test,Australia,bat,Australia,AC Voges
+892517,2015-12-26,Melbourne Cricket Ground,"Australia, West Indies",Test,West Indies,field,Australia,NM Lyon
+892519,2016-01-03,Sydney Cricket Ground,"Australia, West Indies",Test,West Indies,bat,,DA Warner
+895773,2015-08-12,Galle International Stadium,"Sri Lanka, India",Test,Sri Lanka,bat,Sri Lanka,LD Chandimal
+895775,2015-08-20,P Sara Oval,"Sri Lanka, India",Test,India,bat,India,KL Rahul
+895777,2015-08-28,Sinhalese Sports Club Ground,"Sri Lanka, India",Test,Sri Lanka,field,India,CA Pujara
+902635,2015-10-13,Sheikh Zayed Stadium,"England, Pakistan",Test,Pakistan,bat,,AN Cook
+902637,2015-10-22,Dubai International Cricket Stadium,"England, Pakistan",Test,Pakistan,bat,Pakistan,Wahab Riaz
+902639,2015-11-01,Sharjah Cricket Stadium,"England, Pakistan",Test,Pakistan,bat,Pakistan,Mohammad Hafeez
+903603,2015-11-05,"Punjab Cricket Association Stadium, Mohali","India, South Africa",Test,India,bat,India,RA Jadeja
+903605,2015-11-14,M Chinnaswamy Stadium,"India, South Africa",Test,India,field,,
+903607,2015-11-25,"Vidarbha Cricket Association Stadium, Jamtha","India, South Africa",Test,India,bat,India,R Ashwin
+903609,2015-12-03,Feroz Shah Kotla,"India, South Africa",Test,India,bat,India,AM Rahane
+913613,2016-05-19,Headingley,"England, Sri Lanka",Test,Sri Lanka,field,England,JM Bairstow
+913615,2016-05-27,Riverside Ground,"England, Sri Lanka",Test,England,bat,England,JM Anderson
+913617,2016-06-09,Lord's,"England, Sri Lanka",Test,England,bat,,JM Bairstow
+913641,2016-07-14,Lord's,"England, Pakistan",Test,Pakistan,bat,Pakistan,Yasir Shah
+913643,2016-07-22,Old Trafford,"England, Pakistan",Test,England,bat,England,JE Root
+913645,2016-08-03,Edgbaston,"England, Pakistan",Test,Pakistan,field,England,MM Ali
+913647,2016-08-11,Kennington Oval,"England, Pakistan",Test,England,bat,Pakistan,Younis Khan
+914203,2015-12-10,University Oval,"New Zealand, Sri Lanka",Test,Sri Lanka,field,New Zealand,MJ Guptill
+914205,2015-12-18,Seddon Park,"New Zealand, Sri Lanka",Test,New Zealand,field,New Zealand,KS Williamson
+914237,2016-02-12,Basin Reserve,"New Zealand, Australia",Test,Australia,field,Australia,AC Voges
+914239,2016-02-20,Hagley Oval,"New Zealand, Australia",Test,Australia,field,Australia,JA Burns
+915773,2015-10-14,Galle International Stadium,"Sri Lanka, West Indies",Test,Sri Lanka,bat,Sri Lanka,HMRKB Herath
+915775,2015-10-22,P Sara Oval,"Sri Lanka, West Indies",Test,Sri Lanka,bat,Sri Lanka,TAM Siriwardana
+936127,2016-08-19,Kingsmead,"South Africa, New Zealand",Test,South Africa,bat,,
+936129,2016-08-27,SuperSport Park,"South Africa, New Zealand",Test,New Zealand,field,South Africa,Q de Kock
+936147,2016-12-26,St George's Park,"South Africa, Sri Lanka",Test,South Africa,bat,South Africa,SC Cook
+936149,2017-01-02,Newlands,"South Africa, Sri Lanka",Test,Sri Lanka,field,South Africa,K Rabada
+936151,2017-01-12,New Wanderers Stadium,"South Africa, Sri Lanka",Test,South Africa,bat,South Africa,JP Duminy
+995451,2016-07-26,Pallekele International Cricket Stadium,"Sri Lanka, Australia",Test,Sri Lanka,bat,Sri Lanka,BKG Mendis
+995453,2016-08-04,Galle International Stadium,"Sri Lanka, Australia",Test,Sri Lanka,bat,Sri Lanka,MDK Perera
+995455,2016-08-13,Sinhalese Sports Club Ground,"Sri Lanka, Australia",Test,Sri Lanka,bat,Sri Lanka,HMRKB Herath
