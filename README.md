@@ -1,6 +1,5 @@
 # 🏏 Cricsheet Match Data Analysis  
 
-![Banner](./reports/screenshots/banner.png)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)  
